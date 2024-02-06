@@ -5,3 +5,5 @@ tensorflow
 streamlit
 openpyxl
 pillow
+os
+sys
