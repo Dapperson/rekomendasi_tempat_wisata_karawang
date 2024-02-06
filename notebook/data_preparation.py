@@ -1,16 +1,10 @@
-import os
 import pandas as pd
+import os
 
-# Mendefinisikan path ke folder data
-data_folder = 'data'
+data_folder = os.path.abspath(os.path.join(os.getcwd(), os.pardir, 'data'))
 
-# Memuat data pengguna gabungan
-data_user_combined_path = os.path.join(data_folder, 'data_user_combined.xlsx')
-data_user_combined = pd.read_excel(data_user_combined_path)
-
-# Memuat data tempat gabungan
-combined_place_data_path = os.path.join(data_folder, 'combined_place_data.xlsx')
-combined_place_data = pd.read_excel(combined_place_data_path)
+data_user_combined = pd.read_excel(os.path.join(data_folder, 'data_user_combined.xlsx'))
+combined_place_data = pd.read_excel(os.path.join(data_folder, 'combined_place_data.xlsx'))
 
 new_data_user = data_user_combined.copy()
 new_data_place = combined_place_data.copy()
