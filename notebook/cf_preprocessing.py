@@ -1,5 +1,5 @@
 import numpy as np
-from data_preparation import new_data_user
+from data_preparation import new_data_place, new_data_user
 
 user_email = new_data_user['email'].unique().tolist()
 user_to_user_encoded = {x: i for i, x in enumerate(user_email)}
