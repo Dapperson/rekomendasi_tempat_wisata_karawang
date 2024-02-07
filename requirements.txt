@@ -4,4 +4,8 @@ pandas==2.2.0
 numpy==1.26.4
 scikit-learn==1.4.0
 tensorflow==2.15.0
+<<<<<<< HEAD
 openpyxl==3.1.2
+=======
+openpyxl==3.1.2
+>>>>>>> 778867cbffc22e67908a2ff040d534aa799e2da6

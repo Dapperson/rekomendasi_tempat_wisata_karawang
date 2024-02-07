@@ -1,4 +1,5 @@
 import pandas as pd
+<<<<<<< HEAD:data_preparation.py
 # import os
 
 # data_folder = os.path.abspath(os.path.join(os.getcwd(), os.pardir, 'data'))
@@ -8,6 +9,11 @@ import pandas as pd
 
 data_user_combined = pd.read_csv('.\data\data_user_combined_v2.csv')
 combined_place_data = pd.read_csv('.\data\combined_place_data_v2.csv')
+=======
+
+data_user_combined = pd.read_csv('..\data\data_user_combined_v2.csv')
+combined_place_data = pd.read_csv('..\data\combined_place_data_v2.csv')
+>>>>>>> 778867cbffc22e67908a2ff040d534aa799e2da6:notebook/data_preparation.py
 
 new_data_user = data_user_combined.copy()
 new_data_place = combined_place_data.copy()

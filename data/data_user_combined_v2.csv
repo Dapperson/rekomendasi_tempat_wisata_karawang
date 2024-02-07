@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ,Email Address,Nama,Usia,Status,Tempat Tinggal (Kota/Kabupaten),Rating,Nama Tempat Wisata,Kecamatan,Kategori,ID Tempat
 0,khofifahwulandari8@gmail.com,Khofifah ,17 - 25 Tahun,Mahasiswa,Kabupaten Bekasi,4.0,BATU TUMPANG/CURUG BANDUNG,TEGALWARU,ALAM,P4
 1,khofifahwulandari8@gmail.com,Khofifah ,17 - 25 Tahun,Mahasiswa,Kabupaten Bekasi,4.0,BENDUNGAN WALHAR,CIAMPEL,SEJARAH,P5
@@ -482,3 +483,489 @@
 480,dapperjack410@gmail.com,Dendi,17 - 25 Tahun,Mahasiswa,Karawang,4.0,WATERBOOM RAWAMEJA,TEMPURAN,TIRTA,P113
 481,dapperjack410@gmail.com,Dendi,17 - 25 Tahun,Mahasiswa,Karawang,4.0,KOLAM RENANG KALEN RAMAN,BANYUSARI,TIRTA,P43
 482,dapperjack410@gmail.com,Dendi,17 - 25 Tahun,Mahasiswa,Karawang,4.0,KOLAM RENANG ALAM LEWEUNG SEREH,MAJALAYA,TIRTA,P42
+=======
+,Email Address,Nama,Usia,Status,Tempat Tinggal (Kota/Kabupaten),Rating,Nama Tempat Wisata,Kecamatan,Kategori,ID Tempat
+0,khofifahwulandari8@gmail.com,Khofifah ,17 - 25 Tahun,Mahasiswa,Kabupaten Bekasi,4.0,BATU TUMPANG/CURUG BANDUNG,TEGALWARU,ALAM,P4
+1,khofifahwulandari8@gmail.com,Khofifah ,17 - 25 Tahun,Mahasiswa,Kabupaten Bekasi,4.0,BENDUNGAN WALHAR,CIAMPEL,SEJARAH,P5
+2,khofifahwulandari8@gmail.com,Khofifah ,17 - 25 Tahun,Mahasiswa,Kabupaten Bekasi,4.0,SITU CIPULE,CIAMPEL,TIRTA,P87
+3,bram.i.maulana.9@gmail.com,Bram Indra Maulana,17 - 25 Tahun,Mahasiswa,Karawang,3.0,BATU TUMPANG/CURUG BANDUNG,TEGALWARU,ALAM,P4
+4,bram.i.maulana.9@gmail.com,Bram Indra Maulana,17 - 25 Tahun,Mahasiswa,Karawang,3.0,BUKIT SANGGABUANA,TEGALWARU,ALAM,P9
+5,bram.i.maulana.9@gmail.com,Bram Indra Maulana,17 - 25 Tahun,Mahasiswa,Karawang,3.0,CANDI LANANG,CIBUAYA,BUDAYA,P11
+6,bram.i.maulana.9@gmail.com,Bram Indra Maulana,17 - 25 Tahun,Mahasiswa,Karawang,3.0,CANDI WADON,CIBUAYA,BUDAYA,P12
+7,bram.i.maulana.9@gmail.com,Bram Indra Maulana,17 - 25 Tahun,Mahasiswa,Karawang,3.0,CURUG CIGEUNTIS,TEGALWARU,ALAM,P15
+8,bram.i.maulana.9@gmail.com,Bram Indra Maulana,17 - 25 Tahun,Mahasiswa,Karawang,3.0,HUTAN MANGROVE,CILAMAYA WETAN,ALAM,P29
+9,bram.i.maulana.9@gmail.com,Bram Indra Maulana,17 - 25 Tahun,Mahasiswa,Karawang,3.0,HUTAN MANGROVE CIKEONG,CIBUAYA,ALAM,P30
+10,bram.i.maulana.9@gmail.com,Bram Indra Maulana,17 - 25 Tahun,Mahasiswa,Karawang,3.0,JEMBATAN CINTA,TEGALWARU,ALAM,P32
+11,bram.i.maulana.9@gmail.com,Bram Indra Maulana,17 - 25 Tahun,Mahasiswa,Karawang,3.0,MASJID AGUNG KARAWANG,KARAWANG BARAT,KEAGAMAAN,P53
+12,bram.i.maulana.9@gmail.com,Bram Indra Maulana,17 - 25 Tahun,Mahasiswa,Karawang,3.0,MONUMEN KEBULATAN TEKAD,RENGASDENGKLOK,SEJARAH,P55
+13,bram.i.maulana.9@gmail.com,Bram Indra Maulana,17 - 25 Tahun,Mahasiswa,Karawang,3.0,PANTAI SAMUDRA BARU,PEDES,ALAM,P72
+14,bram.i.maulana.9@gmail.com,Bram Indra Maulana,17 - 25 Tahun,Mahasiswa,Karawang,3.0,PANTAI TANJUNG BARU,CILAMAYA KULON,ALAM,P74
+15,bram.i.maulana.9@gmail.com,Bram Indra Maulana,17 - 25 Tahun,Mahasiswa,Karawang,3.0,PANTAI TANJUNG PAKIS,PAKISJAYA,ALAM,P75
+16,bram.i.maulana.9@gmail.com,Bram Indra Maulana,17 - 25 Tahun,Mahasiswa,Karawang,3.0,SITUS CANDI BLANDONGAN,BATUJAYA,BUDAYA,P89
+17,bram.i.maulana.9@gmail.com,Bram Indra Maulana,17 - 25 Tahun,Mahasiswa,Karawang,3.0,SITUS CANDI JIWA,BATUJAYA,BUDAYA,P90
+18,tasyifanafsiahm@gmail.com,Tasyifa Nafsiah Muthmainnah ,17 - 25 Tahun,Mahasiswa,Karawang,3.0,AIR TERJUN GRAND CANYON,PANGKALAN,ALAM,P1
+19,tasyifanafsiahm@gmail.com,Tasyifa Nafsiah Muthmainnah ,17 - 25 Tahun,Mahasiswa,Karawang,3.0,BATU TUMPANG/CURUG BANDUNG,TEGALWARU,ALAM,P4
+20,tasyifanafsiahm@gmail.com,Tasyifa Nafsiah Muthmainnah ,17 - 25 Tahun,Mahasiswa,Karawang,3.0,BENDUNGAN WALHAR,CIAMPEL,SEJARAH,P5
+21,tasyifanafsiahm@gmail.com,Tasyifa Nafsiah Muthmainnah ,17 - 25 Tahun,Mahasiswa,Karawang,3.0,CURUG CIGEUNTIS,TEGALWARU,ALAM,P15
+22,tasyifanafsiahm@gmail.com,Tasyifa Nafsiah Muthmainnah ,17 - 25 Tahun,Mahasiswa,Karawang,3.0,KAMPUNG BUDAYA,TELUKJAMBE TIMUR,BUDAYA,P33
+23,tasyifanafsiahm@gmail.com,Tasyifa Nafsiah Muthmainnah ,17 - 25 Tahun,Mahasiswa,Karawang,3.0,MAQOM SYECH QURO,LEMAH ABANG,BUDAYA,P52
+24,tasyifanafsiahm@gmail.com,Tasyifa Nafsiah Muthmainnah ,17 - 25 Tahun,Mahasiswa,Karawang,3.0,MASJID AGUNG KARAWANG,KARAWANG BARAT,KEAGAMAAN,P53
+25,tasyifanafsiahm@gmail.com,Tasyifa Nafsiah Muthmainnah ,17 - 25 Tahun,Mahasiswa,Karawang,3.0,MONUMEN KEBULATAN TEKAD,RENGASDENGKLOK,SEJARAH,P55
+26,tasyifanafsiahm@gmail.com,Tasyifa Nafsiah Muthmainnah ,17 - 25 Tahun,Mahasiswa,Karawang,3.0,PANTAI SAMUDRA BARU,PEDES,ALAM,P72
+27,tasyifanafsiahm@gmail.com,Tasyifa Nafsiah Muthmainnah ,17 - 25 Tahun,Mahasiswa,Karawang,3.0,PANTAI TANJUNG BARU,CILAMAYA KULON,ALAM,P74
+28,tasyifanafsiahm@gmail.com,Tasyifa Nafsiah Muthmainnah ,17 - 25 Tahun,Mahasiswa,Karawang,3.0,PANTAI TANJUNG PAKIS,PAKISJAYA,ALAM,P75
+29,tasyifanafsiahm@gmail.com,Tasyifa Nafsiah Muthmainnah ,17 - 25 Tahun,Mahasiswa,Karawang,3.0,POHON MIRING,KLARI,ALAM,P77
+30,tasyifanafsiahm@gmail.com,Tasyifa Nafsiah Muthmainnah ,17 - 25 Tahun,Mahasiswa,Karawang,3.0,RUMAH DJAUW KIE SONG,RENGASDENGKLOK,SEJARAH,P81
+31,tasyifanafsiahm@gmail.com,Tasyifa Nafsiah Muthmainnah ,17 - 25 Tahun,Mahasiswa,Karawang,3.0,SAN DIEGO HILL,TELUKJAMBE BARAT,BUDAYA,P83
+32,tasyifanafsiahm@gmail.com,Tasyifa Nafsiah Muthmainnah ,17 - 25 Tahun,Mahasiswa,Karawang,3.0,SITU CIPULE,CIAMPEL,TIRTA,P87
+33,tasyifanafsiahm@gmail.com,Tasyifa Nafsiah Muthmainnah ,17 - 25 Tahun,Mahasiswa,Karawang,3.0,SITUS CANDI JIWA,BATUJAYA,BUDAYA,P90
+34,tasyifanafsiahm@gmail.com,Tasyifa Nafsiah Muthmainnah ,17 - 25 Tahun,Mahasiswa,Karawang,3.0,WATERBOOM KAMPUNG TURIS,TEGALWARU,TIRTA,P112
+35,masandiamali@gmail.com,Andi ganteng,12 - 16 Tahun,Mahasiswa,Tanggerang Selatan,5.0,WISATA MANGROVE SEDARI,CIBUAYA,ALAM,P116
+36,taufanivan41@gmail.com,Taufan Muhammad Ivan,17 - 25 Tahun,Mahasiswa,Kota Bandung,5.0,AIR TERJUN GRAND CANYON,PANGKALAN,ALAM,P1
+37,rshafaaqila30@gmail.com,Riyanti Shafa Aqila,17 - 25 Tahun,Mahasiswa,Kota Bogor,3.0,KAMPUNG BUDAYA,TELUKJAMBE TIMUR,BUDAYA,P33
+38,rshafaaqila30@gmail.com,Riyanti Shafa Aqila,17 - 25 Tahun,Mahasiswa,Kota Bogor,3.0,MASJID AGUNG KARAWANG,KARAWANG BARAT,KEAGAMAAN,P53
+39,dhonihanif354@gmail.com,Dhoni Hanif Supriyadi,17 - 25 Tahun,Mahasiswa,Jakarta Timur,4.0,AIR TERJUN GRAND CANYON,PANGKALAN,ALAM,P1
+40,dhonihanif354@gmail.com,Dhoni Hanif Supriyadi,17 - 25 Tahun,Mahasiswa,Jakarta Timur,4.0,CURUG CIGEUNTIS,TEGALWARU,ALAM,P15
+41,tiarasafitri53301@gmail.com,Tiara Safitri ,17 - 25 Tahun,Bekerja,Karawang,4.0,BATU TUMPANG/CURUG BANDUNG,TEGALWARU,ALAM,P4
+42,tiarasafitri53301@gmail.com,Tiara Safitri ,17 - 25 Tahun,Bekerja,Karawang,4.0,BENDUNGAN WALHAR,CIAMPEL,SEJARAH,P5
+43,tiarasafitri53301@gmail.com,Tiara Safitri ,17 - 25 Tahun,Bekerja,Karawang,4.0,KAMPUNG BUDAYA,TELUKJAMBE TIMUR,BUDAYA,P33
+44,tiarasafitri53301@gmail.com,Tiara Safitri ,17 - 25 Tahun,Bekerja,Karawang,4.0,MAQOM SYECH QURO,LEMAH ABANG,BUDAYA,P52
+45,tiarasafitri53301@gmail.com,Tiara Safitri ,17 - 25 Tahun,Bekerja,Karawang,4.0,MASJID AGUNG KARAWANG,KARAWANG BARAT,KEAGAMAAN,P53
+46,tiarasafitri53301@gmail.com,Tiara Safitri ,17 - 25 Tahun,Bekerja,Karawang,4.0,MUSEUM SITUS BATUJAYA,BATUJAYA,BUDAYA,P62
+47,tiarasafitri53301@gmail.com,Tiara Safitri ,17 - 25 Tahun,Bekerja,Karawang,4.0,PANTAI MUTIARA,CILEBAR,ALAM,P68
+48,tiarasafitri53301@gmail.com,Tiara Safitri ,17 - 25 Tahun,Bekerja,Karawang,4.0,PANTAI PELANGI,PEDES,ALAM,P70
+49,tiarasafitri53301@gmail.com,Tiara Safitri ,17 - 25 Tahun,Bekerja,Karawang,4.0,PANTAI PISANGAN,CIBUAYA,ALAM,P71
+50,tiarasafitri53301@gmail.com,Tiara Safitri ,17 - 25 Tahun,Bekerja,Karawang,4.0,PANTAI SAMUDRA BARU,PEDES,ALAM,P72
+51,tiarasafitri53301@gmail.com,Tiara Safitri ,17 - 25 Tahun,Bekerja,Karawang,4.0,PANTAI TANJUNG BARU,CILAMAYA KULON,ALAM,P74
+52,tiarasafitri53301@gmail.com,Tiara Safitri ,17 - 25 Tahun,Bekerja,Karawang,4.0,PANTAI TANJUNG PAKIS,PAKISJAYA,ALAM,P75
+53,tiarasafitri53301@gmail.com,Tiara Safitri ,17 - 25 Tahun,Bekerja,Karawang,4.0,SITUS CANDI JIWA,BATUJAYA,BUDAYA,P90
+54,tiarasafitri53301@gmail.com,Tiara Safitri ,17 - 25 Tahun,Bekerja,Karawang,4.0,WISATA MANGROVE SEDARI,CIBUAYA,ALAM,P116
+55,ferrybayuputra@gmail.com,Ferry Bayu Putra ,17 - 25 Tahun,Bekerja,Kota Bekasi,3.0,PANTAI TANJUNG PAKIS,PAKISJAYA,ALAM,P75
+56,krisadiwinata12@gmail.com,Kris Adiwinata,17 - 25 Tahun,Mahasiswa,Karawang,5.0,AIR TERJUN GRAND CANYON,PANGKALAN,ALAM,P1
+57,stevantpratama27@gmail.com,Stefhant Hariyanto,17 - 25 Tahun,Bekerja,Kabupaten Bekasi,5.0,AIR TERJUN GRAND CANYON,PANGKALAN,ALAM,P1
+58,stevantpratama27@gmail.com,Stefhant Hariyanto,17 - 25 Tahun,Bekerja,Kabupaten Bekasi,5.0,BATU TUMPANG/CURUG BANDUNG,TEGALWARU,ALAM,P4
+59,stevantpratama27@gmail.com,Stefhant Hariyanto,17 - 25 Tahun,Bekerja,Kabupaten Bekasi,5.0,BENDUNGAN WALHAR,CIAMPEL,SEJARAH,P5
+60,stevantpratama27@gmail.com,Stefhant Hariyanto,17 - 25 Tahun,Bekerja,Kabupaten Bekasi,5.0,BUKIT KEMBAR PUCUK PINUS,TEGALWARU,ALAM,P8
+61,stevantpratama27@gmail.com,Stefhant Hariyanto,17 - 25 Tahun,Bekerja,Kabupaten Bekasi,5.0,CADAS PUTRI TAMELANG,PURWASARI,ALAM,P10
+62,stevantpratama27@gmail.com,Stefhant Hariyanto,17 - 25 Tahun,Bekerja,Kabupaten Bekasi,5.0,CURUG CIGEUNTIS,TEGALWARU,ALAM,P15
+63,stevantpratama27@gmail.com,Stefhant Hariyanto,17 - 25 Tahun,Bekerja,Kabupaten Bekasi,5.0,GOA DAYEUH,PANGKALAN,ALAM,P27
+64,stevantpratama27@gmail.com,Stefhant Hariyanto,17 - 25 Tahun,Bekerja,Kabupaten Bekasi,5.0,JEMBATAN CINTA,TEGALWARU,ALAM,P32
+65,stevantpratama27@gmail.com,Stefhant Hariyanto,17 - 25 Tahun,Bekerja,Kabupaten Bekasi,5.0,KAMPUNG BUDAYA,TELUKJAMBE TIMUR,BUDAYA,P33
+66,stevantpratama27@gmail.com,Stefhant Hariyanto,17 - 25 Tahun,Bekerja,Kabupaten Bekasi,5.0,MAQOM SYECH QURO,LEMAH ABANG,BUDAYA,P52
+67,stevantpratama27@gmail.com,Stefhant Hariyanto,17 - 25 Tahun,Bekerja,Kabupaten Bekasi,5.0,MASJID AGUNG KARAWANG,KARAWANG BARAT,KEAGAMAAN,P53
+68,stevantpratama27@gmail.com,Stefhant Hariyanto,17 - 25 Tahun,Bekerja,Kabupaten Bekasi,5.0,MUSEUM SITUS BATUJAYA,BATUJAYA,BUDAYA,P62
+69,stevantpratama27@gmail.com,Stefhant Hariyanto,17 - 25 Tahun,Bekerja,Kabupaten Bekasi,5.0,PANTAI PASIR PUTIH,CILAMAYA KULON,ALAM,P69
+70,stevantpratama27@gmail.com,Stefhant Hariyanto,17 - 25 Tahun,Bekerja,Kabupaten Bekasi,5.0,PANTAI PELANGI,PEDES,ALAM,P70
+71,stevantpratama27@gmail.com,Stefhant Hariyanto,17 - 25 Tahun,Bekerja,Kabupaten Bekasi,5.0,PANTAI SAMUDRA BARU,PEDES,ALAM,P72
+72,stevantpratama27@gmail.com,Stefhant Hariyanto,17 - 25 Tahun,Bekerja,Kabupaten Bekasi,5.0,PANTAI TANJUNG BARU,CILAMAYA KULON,ALAM,P74
+73,stevantpratama27@gmail.com,Stefhant Hariyanto,17 - 25 Tahun,Bekerja,Kabupaten Bekasi,5.0,PANTAI TANJUNG PAKIS,PAKISJAYA,ALAM,P75
+74,stevantpratama27@gmail.com,Stefhant Hariyanto,17 - 25 Tahun,Bekerja,Kabupaten Bekasi,5.0,PULO PUTRI,BATUJAYA,ALAM,P78
+75,stevantpratama27@gmail.com,Stefhant Hariyanto,17 - 25 Tahun,Bekerja,Kabupaten Bekasi,5.0,SAN DIEGO HILL,TELUKJAMBE BARAT,BUDAYA,P83
+76,stevantpratama27@gmail.com,Stefhant Hariyanto,17 - 25 Tahun,Bekerja,Kabupaten Bekasi,5.0,SITUS CANDI JIWA,BATUJAYA,BUDAYA,P90
+77,stevantpratama27@gmail.com,Stefhant Hariyanto,17 - 25 Tahun,Bekerja,Kabupaten Bekasi,5.0,WISATA MANGROVE SEDARI,CIBUAYA,ALAM,P116
+78,salwa.ss906@gmail.com,Salwa Salsabila,17 - 25 Tahun,Mahasiswa,Karawang,4.0,BENDUNGAN WALHAR,CIAMPEL,SEJARAH,P5
+79,salwa.ss906@gmail.com,Salwa Salsabila,17 - 25 Tahun,Mahasiswa,Karawang,4.0,KAMPUNG BUDAYA,TELUKJAMBE TIMUR,BUDAYA,P33
+80,salwa.ss906@gmail.com,Salwa Salsabila,17 - 25 Tahun,Mahasiswa,Karawang,4.0,MASJID AGUNG KARAWANG,KARAWANG BARAT,KEAGAMAAN,P53
+81,tanjoeeng19@gmail.com,Muhammad Rafli Tanjung ,17 - 25 Tahun,Mahasiswa,Karawang,4.0,AIR TERJUN GRAND CANYON,PANGKALAN,ALAM,P1
+82,tanjoeeng19@gmail.com,Muhammad Rafli Tanjung ,17 - 25 Tahun,Mahasiswa,Karawang,4.0,BATU TUMPANG/CURUG BANDUNG,TEGALWARU,ALAM,P4
+83,tanjoeeng19@gmail.com,Muhammad Rafli Tanjung ,17 - 25 Tahun,Mahasiswa,Karawang,4.0,BENDUNGAN WALHAR,CIAMPEL,SEJARAH,P5
+84,tanjoeeng19@gmail.com,Muhammad Rafli Tanjung ,17 - 25 Tahun,Mahasiswa,Karawang,4.0,BUKIT KEMBAR PUCUK PINUS,TEGALWARU,ALAM,P8
+85,tanjoeeng19@gmail.com,Muhammad Rafli Tanjung ,17 - 25 Tahun,Mahasiswa,Karawang,4.0,BUKIT SANGGABUANA,TEGALWARU,ALAM,P9
+86,tanjoeeng19@gmail.com,Muhammad Rafli Tanjung ,17 - 25 Tahun,Mahasiswa,Karawang,4.0,CURUG CIGEUNTIS,TEGALWARU,ALAM,P15
+87,tanjoeeng19@gmail.com,Muhammad Rafli Tanjung ,17 - 25 Tahun,Mahasiswa,Karawang,4.0,CURUG PANGANTEN,TEGALWARU,ALAM,P20
+88,tanjoeeng19@gmail.com,Muhammad Rafli Tanjung ,17 - 25 Tahun,Mahasiswa,Karawang,4.0,HUTAN MANGROVE,CILAMAYA WETAN,ALAM,P29
+89,tanjoeeng19@gmail.com,Muhammad Rafli Tanjung ,17 - 25 Tahun,Mahasiswa,Karawang,4.0,KAMPUNG BUDAYA,TELUKJAMBE TIMUR,BUDAYA,P33
+90,tanjoeeng19@gmail.com,Muhammad Rafli Tanjung ,17 - 25 Tahun,Mahasiswa,Karawang,4.0,MASJID AGUNG KARAWANG,KARAWANG BARAT,KEAGAMAAN,P53
+91,tanjoeeng19@gmail.com,Muhammad Rafli Tanjung ,17 - 25 Tahun,Mahasiswa,Karawang,4.0,PANTAI TANJUNG PAKIS,PAKISJAYA,ALAM,P75
+92,tanjoeeng19@gmail.com,Muhammad Rafli Tanjung ,17 - 25 Tahun,Mahasiswa,Karawang,4.0,POHON MIRING,KLARI,ALAM,P77
+93,tanjoeeng19@gmail.com,Muhammad Rafli Tanjung ,17 - 25 Tahun,Mahasiswa,Karawang,4.0,PUNCAK SEMPUR,TEGALWARU,ALAM,P79
+94,tanjoeeng19@gmail.com,Muhammad Rafli Tanjung ,17 - 25 Tahun,Mahasiswa,Karawang,4.0,RUMAH DJAUW KIE SONG,RENGASDENGKLOK,SEJARAH,P81
+95,tanjoeeng19@gmail.com,Muhammad Rafli Tanjung ,17 - 25 Tahun,Mahasiswa,Karawang,4.0,SAN DIEGO HILL,TELUKJAMBE BARAT,BUDAYA,P83
+96,tanjoeeng19@gmail.com,Muhammad Rafli Tanjung ,17 - 25 Tahun,Mahasiswa,Karawang,4.0,SITU CIPULE,CIAMPEL,TIRTA,P87
+97,tanjoeeng19@gmail.com,Muhammad Rafli Tanjung ,17 - 25 Tahun,Mahasiswa,Karawang,4.0,SITUS CANDI JIWA,BATUJAYA,BUDAYA,P90
+98,tanjoeeng19@gmail.com,Muhammad Rafli Tanjung ,17 - 25 Tahun,Mahasiswa,Karawang,4.0,WATERBOOM KAMPUNG TURIS,TEGALWARU,TIRTA,P112
+99,tanjoeeng19@gmail.com,Muhammad Rafli Tanjung ,17 - 25 Tahun,Mahasiswa,Karawang,4.0,WISATA MANGROVE SEDARI,CIBUAYA,ALAM,P116
+100,yessitystn99@gmail.com,Yessi,17 - 25 Tahun,Mahasiswa,Kota Bandung,4.0,AIR TERJUN GRAND CANYON,PANGKALAN,ALAM,P1
+101,yessitystn99@gmail.com,Yessi,17 - 25 Tahun,Mahasiswa,Kota Bandung,4.0,PANTAI PASIR PUTIH,CILAMAYA KULON,ALAM,P69
+102,yessitystn99@gmail.com,Yessi,17 - 25 Tahun,Mahasiswa,Kota Bandung,4.0,SAN DIEGO HILL,TELUKJAMBE BARAT,BUDAYA,P83
+103,yessitystn99@gmail.com,Yessi,17 - 25 Tahun,Mahasiswa,Kota Bandung,4.0,STONE GARDEN,TEGALWARU,ALAM,P94
+104,auliarizka2702@gmail.com,rizka ay,17 - 25 Tahun,Mahasiswa,Kabupaten Bekasi,4.0,CURUG CIGEUNTIS,TEGALWARU,ALAM,P15
+105,auliarizka2702@gmail.com,rizka ay,17 - 25 Tahun,Mahasiswa,Kabupaten Bekasi,4.0,MASJID AGUNG KARAWANG,KARAWANG BARAT,KEAGAMAAN,P53
+106,auliarizka2702@gmail.com,rizka ay,17 - 25 Tahun,Mahasiswa,Kabupaten Bekasi,4.0,WATERBOOM KAMPUNG TURIS,TEGALWARU,TIRTA,P112
+107,mutiaratiara1652@gmail.com,mutiara hasna aqilla,17 - 25 Tahun,Mahasiswa,Kota Bekasi,5.0,PANTAI PASIR PUTIH,CILAMAYA KULON,ALAM,P69
+108,mutiaratiara1652@gmail.com,mutiara hasna aqilla,17 - 25 Tahun,Mahasiswa,Kota Bekasi,5.0,SITUS KUTA TANDINGAN,CIAMPEL,BUDAYA,P92
+109,adriacampb@gmail.com,Adria Harist Belia,17 - 25 Tahun,Mahasiswa,Tangerang Selatan,3.0,AIR TERJUN GRAND CANYON,PANGKALAN,ALAM,P1
+110,adriacampb@gmail.com,Adria Harist Belia,17 - 25 Tahun,Mahasiswa,Tangerang Selatan,3.0,MUARA LEMPENG,CIBUAYA,ALAM,P57
+111,kekeyykayla@gmail.com,Kayla Pertama Alesha,6 - 11 Tahun,Pelajar,Kota Bekasi,5.0,AIR TERJUN GRAND CANYON,PANGKALAN,ALAM,P1
+112,kekeyykayla@gmail.com,Kayla Pertama Alesha,6 - 11 Tahun,Pelajar,Kota Bekasi,5.0,BATU TUMPANG/CURUG BANDUNG,TEGALWARU,ALAM,P4
+113,kekeyykayla@gmail.com,Kayla Pertama Alesha,6 - 11 Tahun,Pelajar,Kota Bekasi,5.0,BENDUNGAN WALHAR,CIAMPEL,SEJARAH,P5
+114,kekeyykayla@gmail.com,Kayla Pertama Alesha,6 - 11 Tahun,Pelajar,Kota Bekasi,5.0,BUANA TIRTA,TEGALWARU,TIRTA,P6
+115,kekeyykayla@gmail.com,Kayla Pertama Alesha,6 - 11 Tahun,Pelajar,Kota Bekasi,5.0,BUKIT CALINGCING,TEGALWARU,ALAM,P7
+116,kekeyykayla@gmail.com,Kayla Pertama Alesha,6 - 11 Tahun,Pelajar,Kota Bekasi,5.0,BUKIT KEMBAR PUCUK PINUS,TEGALWARU,ALAM,P8
+117,azkifajri16@gmail.com,Azki Nurul Fajri,17 - 25 Tahun,Mahasiswa,Kabupaten Bogor,4.0,AIR TERJUN GRAND CANYON,PANGKALAN,ALAM,P1
+118,azkifajri16@gmail.com,Azki Nurul Fajri,17 - 25 Tahun,Mahasiswa,Kabupaten Bogor,4.0,CURUG CIGEUNTIS,TEGALWARU,ALAM,P15
+119,azkifajri16@gmail.com,Azki Nurul Fajri,17 - 25 Tahun,Mahasiswa,Kabupaten Bogor,4.0,JEMBATAN CINTA,TEGALWARU,ALAM,P32
+120,azkifajri16@gmail.com,Azki Nurul Fajri,17 - 25 Tahun,Mahasiswa,Kabupaten Bogor,4.0,MASJID AGUNG KARAWANG,KARAWANG BARAT,KEAGAMAAN,P53
+121,azkifajri16@gmail.com,Azki Nurul Fajri,17 - 25 Tahun,Mahasiswa,Kabupaten Bogor,4.0,SAN DIEGO HILL,TELUKJAMBE BARAT,BUDAYA,P83
+122,rifaahdakanitaa@gmail.com,Rifa Ahda Kanita,17 - 25 Tahun,Bekerja,Kota Tangerang,3.0,BENDUNGAN WALHAR,CIAMPEL,SEJARAH,P5
+123,rifaahdakanitaa@gmail.com,Rifa Ahda Kanita,17 - 25 Tahun,Bekerja,Kota Tangerang,3.0,BUKIT KEMBAR PUCUK PINUS,TEGALWARU,ALAM,P8
+124,rifaahdakanitaa@gmail.com,Rifa Ahda Kanita,17 - 25 Tahun,Bekerja,Kota Tangerang,3.0,CURUG CIGEUNTIS,TEGALWARU,ALAM,P15
+125,rifaahdakanitaa@gmail.com,Rifa Ahda Kanita,17 - 25 Tahun,Bekerja,Kota Tangerang,3.0,JEMBATAN CINTA,TEGALWARU,ALAM,P32
+126,rifaahdakanitaa@gmail.com,Rifa Ahda Kanita,17 - 25 Tahun,Bekerja,Kota Tangerang,3.0,MASJID AGUNG KARAWANG,KARAWANG BARAT,KEAGAMAAN,P53
+127,rifaahdakanitaa@gmail.com,Rifa Ahda Kanita,17 - 25 Tahun,Bekerja,Kota Tangerang,3.0,MUSEUM SITUS BATUJAYA,BATUJAYA,BUDAYA,P62
+128,rifaahdakanitaa@gmail.com,Rifa Ahda Kanita,17 - 25 Tahun,Bekerja,Kota Tangerang,3.0,PANTAI PASIR PUTIH,CILAMAYA KULON,ALAM,P69
+129,rifaahdakanitaa@gmail.com,Rifa Ahda Kanita,17 - 25 Tahun,Bekerja,Kota Tangerang,3.0,PANTAI PELANGI,PEDES,ALAM,P70
+130,rifaahdakanitaa@gmail.com,Rifa Ahda Kanita,17 - 25 Tahun,Bekerja,Kota Tangerang,3.0,PANTAI TANJUNG BARU,CILAMAYA KULON,ALAM,P74
+131,rifaahdakanitaa@gmail.com,Rifa Ahda Kanita,17 - 25 Tahun,Bekerja,Kota Tangerang,3.0,PANTAI TANJUNG PAKIS,PAKISJAYA,ALAM,P75
+132,rifaahdakanitaa@gmail.com,Rifa Ahda Kanita,17 - 25 Tahun,Bekerja,Kota Tangerang,3.0,PUNCAK SEMPUR,TEGALWARU,ALAM,P79
+133,rifaahdakanitaa@gmail.com,Rifa Ahda Kanita,17 - 25 Tahun,Bekerja,Kota Tangerang,3.0,SITUS CANDI JIWA,BATUJAYA,BUDAYA,P90
+134,rifaahdakanitaa@gmail.com,Rifa Ahda Kanita,17 - 25 Tahun,Bekerja,Kota Tangerang,3.0,SITUS TELAGAJAYA,PAKISJAYA,BUDAYA,P93
+135,rifaahdakanitaa@gmail.com,Rifa Ahda Kanita,17 - 25 Tahun,Bekerja,Kota Tangerang,3.0,TAMAN HUTAN KOTA CIKAMPEK,CIKAMPEK,ALAM,P101
+136,mkarifin71986@gmail.com,Muhammad kurniawan arifin,17 - 25 Tahun,Mahasiswa,Kota Bekasi,4.0,AIR TERJUN GRAND CANYON,PANGKALAN,ALAM,P1
+137,trinovaputra@gmail.com,Rahmanda Trinova Putra,17 - 25 Tahun,Mahasiswa,Kota Bekasi,4.0,AIR TERJUN GRAND CANYON,PANGKALAN,ALAM,P1
+138,trinovaputra@gmail.com,Rahmanda Trinova Putra,17 - 25 Tahun,Mahasiswa,Kota Bekasi,4.0,BATU TUMPANG/CURUG BANDUNG,TEGALWARU,ALAM,P4
+139,trinovaputra@gmail.com,Rahmanda Trinova Putra,17 - 25 Tahun,Mahasiswa,Kota Bekasi,4.0,BUKIT KEMBAR PUCUK PINUS,TEGALWARU,ALAM,P8
+140,trinovaputra@gmail.com,Rahmanda Trinova Putra,17 - 25 Tahun,Mahasiswa,Kota Bekasi,4.0,CURUG CIGEUNTIS,TEGALWARU,ALAM,P15
+141,abirafdimirza17@gmail.com,Abi ,17 - 25 Tahun,Mahasiswa,Kota Bekasi,3.0,BATU TUMPANG/CURUG BANDUNG,TEGALWARU,ALAM,P4
+142,ryangemilangtaufik@gmail.com,Ryan Gemilang Taufik,17 - 25 Tahun,Mahasiswa,Karawang,5.0,RUMAH DJAUW KIE SONG,RENGASDENGKLOK,SEJARAH,P81
+143,yazidar27@gmail.com,Yazid Aqsa Raisnaldi,17 - 25 Tahun,Mahasiswa,Kabupaten Bekasi,3.0,MASJID AGUNG KARAWANG,KARAWANG BARAT,KEAGAMAAN,P53
+144,yazidar27@gmail.com,Yazid Aqsa Raisnaldi,17 - 25 Tahun,Mahasiswa,Kabupaten Bekasi,3.0,PANTAI TANJUNG PAKIS,PAKISJAYA,ALAM,P75
+145,zharif588@gmail.com,Hafidz Zharif,17 - 25 Tahun,Mahasiswa,Kabupaten Bekasi,4.0,CURUG CIGEUNTIS,TEGALWARU,ALAM,P15
+146,zharif588@gmail.com,Hafidz Zharif,17 - 25 Tahun,Mahasiswa,Kabupaten Bekasi,4.0,KAMPUNG BUDAYA,TELUKJAMBE TIMUR,BUDAYA,P33
+147,zharif588@gmail.com,Hafidz Zharif,17 - 25 Tahun,Mahasiswa,Kabupaten Bekasi,4.0,MASJID AGUNG KARAWANG,KARAWANG BARAT,KEAGAMAAN,P53
+148,basitalhafiz123@gmail.com,basit,17 - 25 Tahun,Mahasiswa,Kabupaten Bekasi,3.0,SITUS CANDI JIWA,BATUJAYA,BUDAYA,P90
+149,fachren95@gmail.com,CenZ,17 - 25 Tahun,Bekerja,Karawang,4.0,KAMPUNG BUDAYA,TELUKJAMBE TIMUR,BUDAYA,P33
+150,fachren95@gmail.com,CenZ,17 - 25 Tahun,Bekerja,Karawang,4.0,MASJID AGUNG KARAWANG,KARAWANG BARAT,KEAGAMAAN,P53
+151,fachren95@gmail.com,CenZ,17 - 25 Tahun,Bekerja,Karawang,4.0,SAN DIEGO HILL,TELUKJAMBE BARAT,BUDAYA,P83
+152,fachren95@gmail.com,CenZ,17 - 25 Tahun,Bekerja,Karawang,4.0,SITU KAMOJING,CIKAMPEK,TIRTA,P88
+153,fachren95@gmail.com,CenZ,17 - 25 Tahun,Bekerja,Karawang,4.0,SITUS CANDI JIWA,BATUJAYA,BUDAYA,P90
+154,fachren95@gmail.com,CenZ,17 - 25 Tahun,Bekerja,Karawang,4.0,TAMAN HUTAN KOTA CIKAMPEK,CIKAMPEK,ALAM,P101
+155,ronimerdiansyah@gmail.com,Roni,17 - 25 Tahun,Mahasiswa,Kabupaten Bekasi,4.0,CANDI LANANG,CIBUAYA,BUDAYA,P11
+156,ronimerdiansyah@gmail.com,Roni,17 - 25 Tahun,Mahasiswa,Kabupaten Bekasi,4.0,CANDI WADON,CIBUAYA,BUDAYA,P12
+157,ronimerdiansyah@gmail.com,Roni,17 - 25 Tahun,Mahasiswa,Kabupaten Bekasi,4.0,KAMPUNG BUDAYA,TELUKJAMBE TIMUR,BUDAYA,P33
+158,ronimerdiansyah@gmail.com,Roni,17 - 25 Tahun,Mahasiswa,Kabupaten Bekasi,4.0,MAQOM SYECH BENTONG,LEMAH ABANG,BUDAYA,P51
+159,ronimerdiansyah@gmail.com,Roni,17 - 25 Tahun,Mahasiswa,Kabupaten Bekasi,4.0,MAQOM SYECH QURO,LEMAH ABANG,BUDAYA,P52
+160,ronimerdiansyah@gmail.com,Roni,17 - 25 Tahun,Mahasiswa,Kabupaten Bekasi,4.0,RUMAH DJAUW KIE SONG,RENGASDENGKLOK,SEJARAH,P81
+161,ronimerdiansyah@gmail.com,Roni,17 - 25 Tahun,Mahasiswa,Kabupaten Bekasi,4.0,SITUS CANDI BLANDONGAN,BATUJAYA,BUDAYA,P89
+162,ronimerdiansyah@gmail.com,Roni,17 - 25 Tahun,Mahasiswa,Kabupaten Bekasi,4.0,SITUS CANDI JIWA,BATUJAYA,BUDAYA,P90
+163,ronimerdiansyah@gmail.com,Roni,17 - 25 Tahun,Mahasiswa,Kabupaten Bekasi,4.0,VIHARA SIAN DJIN KUPOH,KARAWANG BARAT,KEAGAMAAN,P107
+164,ronimerdiansyah@gmail.com,Roni,17 - 25 Tahun,Mahasiswa,Kabupaten Bekasi,4.0,ALUN-ALUN KOTA KARAWANG,KARAWANG BARAT,TIRTA,P2
+165,ronimerdiansyah@gmail.com,Roni,17 - 25 Tahun,Mahasiswa,Kabupaten Bekasi,4.0,MONUMEN RAWAGEDE. TAMAN MAKAM PAHLAWAN,RAWAMERTA,SEJARAH,P56
+166,ronimerdiansyah@gmail.com,Roni,17 - 25 Tahun,Mahasiswa,Kabupaten Bekasi,4.0,MASJID JAMI ALIYAH,TELUKJAMBE TIMUR,KEAGAMAAN,P54
+167,franklegiondbd@gmail.com,Frans,26 - 35 Tahun,Bekerja,Kota Bekasi,5.0,AIR TERJUN GRAND CANYON,PANGKALAN,ALAM,P1
+168,franklegiondbd@gmail.com,Frans,26 - 35 Tahun,Bekerja,Kota Bekasi,5.0,KAMPUNG BUDAYA,TELUKJAMBE TIMUR,BUDAYA,P33
+169,franklegiondbd@gmail.com,Frans,26 - 35 Tahun,Bekerja,Kota Bekasi,5.0,PANTAI SAMUDRA BARU,PEDES,ALAM,P72
+170,franklegiondbd@gmail.com,Frans,26 - 35 Tahun,Bekerja,Kota Bekasi,5.0,TAMAN GALUH MAS,TELUKJAMBE TIMUR,TIRTA,P99
+171,franklegiondbd@gmail.com,Frans,26 - 35 Tahun,Bekerja,Kota Bekasi,5.0,SITU BUER,TEMPURAN,TIRTA,P85
+172,franklegiondbd@gmail.com,Frans,26 - 35 Tahun,Bekerja,Kota Bekasi,5.0,CIBOKOR SKY PARK RESTO & WATERPARK,TEGALWARU,ALAM,P13
+173,franklegiondbd@gmail.com,Frans,26 - 35 Tahun,Bekerja,Kota Bekasi,5.0,DANAU RESINDA,TELUKJAMBE TIMUR,ALAM,P24
+174,dapperjack410@gmail.com,Dendi,17 - 25 Tahun,Mahasiswa,Karawang,4.0,CURUG CIGEUNTIS,TEGALWARU,ALAM,P15
+175,dapperjack410@gmail.com,Dendi,17 - 25 Tahun,Mahasiswa,Karawang,4.0,CURUG CIKOLEANGKAK,TEGALWARU,ALAM,P17
+176,dapperjack410@gmail.com,Dendi,17 - 25 Tahun,Mahasiswa,Karawang,4.0,KAMPUNG BUDAYA,TELUKJAMBE TIMUR,BUDAYA,P33
+177,dapperjack410@gmail.com,Dendi,17 - 25 Tahun,Mahasiswa,Karawang,4.0,KAMPUNG TIPAR,TEGALWARU,ALAM,P37
+178,dapperjack410@gmail.com,Dendi,17 - 25 Tahun,Mahasiswa,Karawang,4.0,MAQOM SYECH QURO,LEMAH ABANG,BUDAYA,P52
+179,dapperjack410@gmail.com,Dendi,17 - 25 Tahun,Mahasiswa,Karawang,4.0,MONUMEN KEBULATAN TEKAD,RENGASDENGKLOK,SEJARAH,P55
+180,dapperjack410@gmail.com,Dendi,17 - 25 Tahun,Mahasiswa,Karawang,4.0,PANTAI CIBENDO,TEMPURAN,ALAM,P66
+181,dapperjack410@gmail.com,Dendi,17 - 25 Tahun,Mahasiswa,Karawang,4.0,PANTAI PASIR PUTIH,CILAMAYA KULON,ALAM,P69
+182,dapperjack410@gmail.com,Dendi,17 - 25 Tahun,Mahasiswa,Karawang,4.0,PANTAI PELANGI,PEDES,ALAM,P70
+183,dapperjack410@gmail.com,Dendi,17 - 25 Tahun,Mahasiswa,Karawang,4.0,PANTAI PISANGAN,CIBUAYA,ALAM,P71
+184,dapperjack410@gmail.com,Dendi,17 - 25 Tahun,Mahasiswa,Karawang,4.0,SITUS GUNUNG LEUTIK,PANGKALAN,ALAM,P91
+185,dapperjack410@gmail.com,Dendi,17 - 25 Tahun,Mahasiswa,Karawang,4.0,STONE GARDEN,TEGALWARU,ALAM,P94
+186,dapperjack410@gmail.com,Dendi,17 - 25 Tahun,Mahasiswa,Karawang,4.0,WATERBOOM CIBONTENG,TEGALWARU,TIRTA,P109
+187,dapperjack410@gmail.com,Dendi,17 - 25 Tahun,Mahasiswa,Karawang,4.0,WATERBOOM EMPANG SARI,TEGALWARU,TIRTA,P111
+188,dapperjack410@gmail.com,Dendi,17 - 25 Tahun,Mahasiswa,Karawang,4.0,TAMAN GALUH MAS,TELUKJAMBE TIMUR,TIRTA,P99
+189,dapperjack410@gmail.com,Dendi,17 - 25 Tahun,Mahasiswa,Karawang,4.0,DANAU SEA GAME CIAMPEL,CIAMPEL,ALAM,P25
+190,dapperjack410@gmail.com,Dendi,17 - 25 Tahun,Mahasiswa,Karawang,4.0,TAMAN KOTA,KARAWANG BARAT,TIRTA,P102
+191,dapperjack410@gmail.com,Dendi,17 - 25 Tahun,Mahasiswa,Karawang,4.0,WISATA MANGROVE KARAWANG,CILEBAR,ALAM,P115
+192,dapperjack410@gmail.com,Dendi,17 - 25 Tahun,Mahasiswa,Karawang,4.0,KARNIVAL FUN & FIT TRAMPOLINE PARK KARAWANG,TELUKJAMBE TIMUR,TIRTA,P40
+193,dapperjack410@gmail.com,Dendi,17 - 25 Tahun,Mahasiswa,Karawang,4.0,DANAU CINTA,CIAMPEL,ALAM,P22
+194,dapperjack410@gmail.com,Dendi,17 - 25 Tahun,Mahasiswa,Karawang,4.0,CIBOKOR SKY PARK RESTO & WATERPARK,TEGALWARU,ALAM,P13
+195,dapperjack410@gmail.com,Dendi,17 - 25 Tahun,Mahasiswa,Karawang,4.0,MASJID JAMI ALIYAH,TELUKJAMBE TIMUR,KEAGAMAAN,P54
+196,dapperjack410@gmail.com,Dendi,17 - 25 Tahun,Mahasiswa,Karawang,4.0,TALAGA REUMIS,RENGASDENGKLOK,TIRTA,P97
+197,khofifahwulandari8@gmail.com,Khofifah ,17 - 25 Tahun,Mahasiswa,Kabupaten Bekasi,4.0,PULO PUTRI,BATUJAYA,ALAM,P78
+198,bram.i.maulana.9@gmail.com,Bram Indra Maulana,17 - 25 Tahun,Mahasiswa,Karawang,3.0,BUANA TIRTA,TEGALWARU,TIRTA,P6
+199,bram.i.maulana.9@gmail.com,Bram Indra Maulana,17 - 25 Tahun,Mahasiswa,Karawang,3.0,BUKIT CALINGCING,TEGALWARU,ALAM,P7
+200,bram.i.maulana.9@gmail.com,Bram Indra Maulana,17 - 25 Tahun,Mahasiswa,Karawang,3.0,BUKIT KEMBAR PUCUK PINUS,TEGALWARU,ALAM,P8
+201,bram.i.maulana.9@gmail.com,Bram Indra Maulana,17 - 25 Tahun,Mahasiswa,Karawang,3.0,CADAS PUTRI TAMELANG,PURWASARI,ALAM,P10
+202,bram.i.maulana.9@gmail.com,Bram Indra Maulana,17 - 25 Tahun,Mahasiswa,Karawang,3.0,CURUG CIPANUNDAAN,TEGALWARU,ALAM,P18
+203,bram.i.maulana.9@gmail.com,Bram Indra Maulana,17 - 25 Tahun,Mahasiswa,Karawang,3.0,KAMPUNG BUDAYA,TELUKJAMBE TIMUR,BUDAYA,P33
+204,bram.i.maulana.9@gmail.com,Bram Indra Maulana,17 - 25 Tahun,Mahasiswa,Karawang,3.0,KAMPUNG TIPAR,TEGALWARU,ALAM,P37
+205,bram.i.maulana.9@gmail.com,Bram Indra Maulana,17 - 25 Tahun,Mahasiswa,Karawang,3.0,KUALA TELAR SARI/BURUNG,CIBUAYA,ALAM,P46
+206,bram.i.maulana.9@gmail.com,Bram Indra Maulana,17 - 25 Tahun,Mahasiswa,Karawang,3.0,MAKAM PANJANG,LEMAH ABANG,BUDAYA,P49
+207,bram.i.maulana.9@gmail.com,Bram Indra Maulana,17 - 25 Tahun,Mahasiswa,Karawang,3.0,MAKAM PASAREAN,KLARI,BUDAYA,P50
+208,bram.i.maulana.9@gmail.com,Bram Indra Maulana,17 - 25 Tahun,Mahasiswa,Karawang,3.0,MUARA PARIDI,CIBUAYA,ALAM,P58
+209,bram.i.maulana.9@gmail.com,Bram Indra Maulana,17 - 25 Tahun,Mahasiswa,Karawang,3.0,MUARA SUNGAI MANUK,CIBUAYA,ALAM,P59
+210,bram.i.maulana.9@gmail.com,Bram Indra Maulana,17 - 25 Tahun,Mahasiswa,Karawang,3.0,PANTAI CIBENDO,TEMPURAN,ALAM,P66
+211,bram.i.maulana.9@gmail.com,Bram Indra Maulana,17 - 25 Tahun,Mahasiswa,Karawang,3.0,PANTAI JALASENA,PEDES,ALAM,P67
+212,bram.i.maulana.9@gmail.com,Bram Indra Maulana,17 - 25 Tahun,Mahasiswa,Karawang,3.0,SITUS GUNUNG LEUTIK,PANGKALAN,ALAM,P91
+213,tasyifanafsiahm@gmail.com,Tasyifa Nafsiah Muthmainnah ,17 - 25 Tahun,Mahasiswa,Karawang,3.0,PUNCAK SEMPUR,TEGALWARU,ALAM,P79
+214,rhisaadikaputri2@gmail.com,Rhisa Adika ,17 - 25 Tahun,Mahasiswa,Jakarta Barat,4.0,AIR TERJUN GRAND CANYON,PANGKALAN,ALAM,P1
+215,rhisaadikaputri2@gmail.com,Rhisa Adika ,17 - 25 Tahun,Mahasiswa,Jakarta Barat,4.0,BUKIT CALINGCING,TEGALWARU,ALAM,P7
+216,rhisaadikaputri2@gmail.com,Rhisa Adika ,17 - 25 Tahun,Mahasiswa,Jakarta Barat,4.0,BUKIT KEMBAR PUCUK PINUS,TEGALWARU,ALAM,P8
+217,rhisaadikaputri2@gmail.com,Rhisa Adika ,17 - 25 Tahun,Mahasiswa,Jakarta Barat,4.0,BUKIT SANGGABUANA,TEGALWARU,ALAM,P9
+218,rhisaadikaputri2@gmail.com,Rhisa Adika ,17 - 25 Tahun,Mahasiswa,Jakarta Barat,4.0,CANDI LANANG,CIBUAYA,BUDAYA,P11
+219,rhisaadikaputri2@gmail.com,Rhisa Adika ,17 - 25 Tahun,Mahasiswa,Jakarta Barat,4.0,CANDI WADON,CIBUAYA,BUDAYA,P12
+220,rhisaadikaputri2@gmail.com,Rhisa Adika ,17 - 25 Tahun,Mahasiswa,Jakarta Barat,4.0,CURUG PANGANTEN,TEGALWARU,ALAM,P20
+221,rhisaadikaputri2@gmail.com,Rhisa Adika ,17 - 25 Tahun,Mahasiswa,Jakarta Barat,4.0,DANAU KALIMATI,KLARI,TIRTA,P23
+222,rhisaadikaputri2@gmail.com,Rhisa Adika ,17 - 25 Tahun,Mahasiswa,Jakarta Barat,4.0,HUTAN MANGROVE,CILAMAYA WETAN,ALAM,P29
+223,rhisaadikaputri2@gmail.com,Rhisa Adika ,17 - 25 Tahun,Mahasiswa,Jakarta Barat,4.0,HUTAN MANGROVE CIKEONG,CIBUAYA,ALAM,P30
+224,rhisaadikaputri2@gmail.com,Rhisa Adika ,17 - 25 Tahun,Mahasiswa,Jakarta Barat,4.0,JEMBATAN CINTA,TEGALWARU,ALAM,P32
+225,rhisaadikaputri2@gmail.com,Rhisa Adika ,17 - 25 Tahun,Mahasiswa,Jakarta Barat,4.0,KAMPUNG BUDAYA,TELUKJAMBE TIMUR,BUDAYA,P33
+226,rhisaadikaputri2@gmail.com,Rhisa Adika ,17 - 25 Tahun,Mahasiswa,Jakarta Barat,4.0,MAKAM KI BAGUS RANGIN,KUTAWALUYA,BUDAYA,P48
+227,rhisaadikaputri2@gmail.com,Rhisa Adika ,17 - 25 Tahun,Mahasiswa,Jakarta Barat,4.0,MAKAM PANJANG,LEMAH ABANG,BUDAYA,P49
+228,rhisaadikaputri2@gmail.com,Rhisa Adika ,17 - 25 Tahun,Mahasiswa,Jakarta Barat,4.0,MAQOM SYECH QURO,LEMAH ABANG,BUDAYA,P52
+229,rhisaadikaputri2@gmail.com,Rhisa Adika ,17 - 25 Tahun,Mahasiswa,Jakarta Barat,4.0,MASJID AGUNG KARAWANG,KARAWANG BARAT,KEAGAMAAN,P53
+230,rhisaadikaputri2@gmail.com,Rhisa Adika ,17 - 25 Tahun,Mahasiswa,Jakarta Barat,4.0,MUSEUM SITUS BATUJAYA,BATUJAYA,BUDAYA,P62
+231,rhisaadikaputri2@gmail.com,Rhisa Adika ,17 - 25 Tahun,Mahasiswa,Jakarta Barat,4.0,PANTAI ALAM BARU,CIBUAYA,ALAM,P65
+232,rhisaadikaputri2@gmail.com,Rhisa Adika ,17 - 25 Tahun,Mahasiswa,Jakarta Barat,4.0,PANTAI CIBENDO,TEMPURAN,ALAM,P66
+233,rhisaadikaputri2@gmail.com,Rhisa Adika ,17 - 25 Tahun,Mahasiswa,Jakarta Barat,4.0,PANTAI JALASENA,PEDES,ALAM,P67
+234,rhisaadikaputri2@gmail.com,Rhisa Adika ,17 - 25 Tahun,Mahasiswa,Jakarta Barat,4.0,PANTAI MUTIARA,CILEBAR,ALAM,P68
+235,rhisaadikaputri2@gmail.com,Rhisa Adika ,17 - 25 Tahun,Mahasiswa,Jakarta Barat,4.0,PANTAI PASIR PUTIH,CILAMAYA KULON,ALAM,P69
+236,rhisaadikaputri2@gmail.com,Rhisa Adika ,17 - 25 Tahun,Mahasiswa,Jakarta Barat,4.0,PANTAI PELANGI,PEDES,ALAM,P70
+237,rhisaadikaputri2@gmail.com,Rhisa Adika ,17 - 25 Tahun,Mahasiswa,Jakarta Barat,4.0,PANTAI SAMUDRA BARU,PEDES,ALAM,P72
+238,rhisaadikaputri2@gmail.com,Rhisa Adika ,17 - 25 Tahun,Mahasiswa,Jakarta Barat,4.0,RUMAH DJAUW KIE SONG,RENGASDENGKLOK,SEJARAH,P81
+239,rhisaadikaputri2@gmail.com,Rhisa Adika ,17 - 25 Tahun,Mahasiswa,Jakarta Barat,4.0,SITUS CANDI BLANDONGAN,BATUJAYA,BUDAYA,P89
+240,rhisaadikaputri2@gmail.com,Rhisa Adika ,17 - 25 Tahun,Mahasiswa,Jakarta Barat,4.0,SITUS CANDI JIWA,BATUJAYA,BUDAYA,P90
+241,rhisaadikaputri2@gmail.com,Rhisa Adika ,17 - 25 Tahun,Mahasiswa,Jakarta Barat,4.0,SITUS GUNUNG LEUTIK,PANGKALAN,ALAM,P91
+242,rhisaadikaputri2@gmail.com,Rhisa Adika ,17 - 25 Tahun,Mahasiswa,Jakarta Barat,4.0,STONE GARDEN,TEGALWARU,ALAM,P94
+243,rhisaadikaputri2@gmail.com,Rhisa Adika ,17 - 25 Tahun,Mahasiswa,Jakarta Barat,4.0,SUNGAI ALAM BENTANG,CIBUAYA,ALAM,P96
+244,rhisaadikaputri2@gmail.com,Rhisa Adika ,17 - 25 Tahun,Mahasiswa,Jakarta Barat,4.0,TAMAN BATU SINAPEUL,TEGALWARU,ALAM,P98
+245,rhisaadikaputri2@gmail.com,Rhisa Adika ,17 - 25 Tahun,Mahasiswa,Jakarta Barat,4.0,TAMAN HUTAN KOTA CIKAMPEK,CIKAMPEK,ALAM,P101
+246,rhisaadikaputri2@gmail.com,Rhisa Adika ,17 - 25 Tahun,Mahasiswa,Jakarta Barat,4.0,WISATA MANGROVE SEDARI,CIBUAYA,ALAM,P116
+247,muhamadrizkyramadhana09@gmail.com,Rizky,17 - 25 Tahun,Bekerja,Kabupaten Bekasi,4.0,CANDI LANANG,CIBUAYA,BUDAYA,P11
+248,taufanivan41@gmail.com,Taufan Muhammad Ivan,17 - 25 Tahun,Mahasiswa,Kota Bandung,5.0,WATERBOOM KAMPUNG TURIS,TEGALWARU,TIRTA,P112
+249,rshafaaqila30@gmail.com,Riyanti Shafa Aqila,17 - 25 Tahun,Mahasiswa,Kota Bogor,3.0,CURUG CIGEUNTIS,TEGALWARU,ALAM,P15
+250,rshafaaqila30@gmail.com,Riyanti Shafa Aqila,17 - 25 Tahun,Mahasiswa,Kota Bogor,3.0,HUTAN MANGROVE,CILAMAYA WETAN,ALAM,P29
+251,rshafaaqila30@gmail.com,Riyanti Shafa Aqila,17 - 25 Tahun,Mahasiswa,Kota Bogor,3.0,PANTAI PASIR PUTIH,CILAMAYA KULON,ALAM,P69
+252,dhonihanif354@gmail.com,Dhoni Hanif Supriyadi,17 - 25 Tahun,Mahasiswa,Jakarta Timur,4.0,BATU TUMPANG/CURUG BANDUNG,TEGALWARU,ALAM,P4
+253,dhonihanif354@gmail.com,Dhoni Hanif Supriyadi,17 - 25 Tahun,Mahasiswa,Jakarta Timur,4.0,BUKIT CALINGCING,TEGALWARU,ALAM,P7
+254,tiarasafitri53301@gmail.com,Tiara Safitri ,17 - 25 Tahun,Bekerja,Karawang,4.0,AIR TERJUN GRAND CANYON,PANGKALAN,ALAM,P1
+255,tiarasafitri53301@gmail.com,Tiara Safitri ,17 - 25 Tahun,Bekerja,Karawang,4.0,CURUG CIGEUNTIS,TEGALWARU,ALAM,P15
+256,tiarasafitri53301@gmail.com,Tiara Safitri ,17 - 25 Tahun,Bekerja,Karawang,4.0,KUALA KARANG TARITIS,CIBUAYA,ALAM,P45
+257,krisadiwinata12@gmail.com,Kris Adiwinata,17 - 25 Tahun,Mahasiswa,Karawang,5.0,BUKIT KEMBAR PUCUK PINUS,TEGALWARU,ALAM,P8
+258,2010631250075@student.unsika.ac.id,Indri,17 - 25 Tahun,Mahasiswa,Kuningan,4.0,AIR TERJUN GRAND CANYON,PANGKALAN,ALAM,P1
+259,2010631250075@student.unsika.ac.id,Indri,17 - 25 Tahun,Mahasiswa,Kuningan,4.0,BATU TUMPANG/CURUG BANDUNG,TEGALWARU,ALAM,P4
+260,2010631250075@student.unsika.ac.id,Indri,17 - 25 Tahun,Mahasiswa,Kuningan,4.0,BENDUNGAN WALHAR,CIAMPEL,SEJARAH,P5
+261,2010631250075@student.unsika.ac.id,Indri,17 - 25 Tahun,Mahasiswa,Kuningan,4.0,BUKIT CALINGCING,TEGALWARU,ALAM,P7
+262,2010631250075@student.unsika.ac.id,Indri,17 - 25 Tahun,Mahasiswa,Kuningan,4.0,BUKIT KEMBAR PUCUK PINUS,TEGALWARU,ALAM,P8
+263,2010631250075@student.unsika.ac.id,Indri,17 - 25 Tahun,Mahasiswa,Kuningan,4.0,CADAS PUTRI TAMELANG,PURWASARI,ALAM,P10
+264,2010631250075@student.unsika.ac.id,Indri,17 - 25 Tahun,Mahasiswa,Kuningan,4.0,CURUG CIGEUNTIS,TEGALWARU,ALAM,P15
+265,2010631250075@student.unsika.ac.id,Indri,17 - 25 Tahun,Mahasiswa,Kuningan,4.0,CURUG CIKARAPYAK,TEGALWARU,ALAM,P16
+266,2010631250075@student.unsika.ac.id,Indri,17 - 25 Tahun,Mahasiswa,Kuningan,4.0,CURUG CIKOLEANGKAK,TEGALWARU,ALAM,P17
+267,2010631250075@student.unsika.ac.id,Indri,17 - 25 Tahun,Mahasiswa,Kuningan,4.0,CURUG CIPANUNDAAN,TEGALWARU,ALAM,P18
+268,2010631250075@student.unsika.ac.id,Indri,17 - 25 Tahun,Mahasiswa,Kuningan,4.0,CURUG LALAY,PANGKALAN,ALAM,P19
+269,2010631250075@student.unsika.ac.id,Indri,17 - 25 Tahun,Mahasiswa,Kuningan,4.0,CURUG PANGANTEN,TEGALWARU,ALAM,P20
+270,2010631250075@student.unsika.ac.id,Indri,17 - 25 Tahun,Mahasiswa,Kuningan,4.0,HUTAN MANGROVE,CILAMAYA WETAN,ALAM,P29
+271,2010631250075@student.unsika.ac.id,Indri,17 - 25 Tahun,Mahasiswa,Kuningan,4.0,PANTAI ALAM BARU,CIBUAYA,ALAM,P65
+272,2010631250075@student.unsika.ac.id,Indri,17 - 25 Tahun,Mahasiswa,Kuningan,4.0,PANTAI PASIR PUTIH,CILAMAYA KULON,ALAM,P69
+273,2010631250075@student.unsika.ac.id,Indri,17 - 25 Tahun,Mahasiswa,Kuningan,4.0,PANTAI SAMUDRA BARU,PEDES,ALAM,P72
+274,2010631250075@student.unsika.ac.id,Indri,17 - 25 Tahun,Mahasiswa,Kuningan,4.0,SAN DIEGO HILL,TELUKJAMBE BARAT,BUDAYA,P83
+275,2010631250075@student.unsika.ac.id,Indri,17 - 25 Tahun,Mahasiswa,Kuningan,4.0,TAMAN HUTAN KOTA CIKAMPEK,CIKAMPEK,ALAM,P101
+276,salwa.ss906@gmail.com,Salwa Salsabila,17 - 25 Tahun,Mahasiswa,Karawang,4.0,AIR TERJUN GRAND CANYON,PANGKALAN,ALAM,P1
+277,tanjoeeng19@gmail.com,Muhammad Rafli Tanjung ,17 - 25 Tahun,Mahasiswa,Karawang,4.0,JEMBATAN CINTA,TEGALWARU,ALAM,P32
+278,tanjoeeng19@gmail.com,Muhammad Rafli Tanjung ,17 - 25 Tahun,Mahasiswa,Karawang,4.0,MAQOM SYECH QURO,LEMAH ABANG,BUDAYA,P52
+279,tanjoeeng19@gmail.com,Muhammad Rafli Tanjung ,17 - 25 Tahun,Mahasiswa,Karawang,4.0,PANTAI PASIR PUTIH,CILAMAYA KULON,ALAM,P69
+280,tanjoeeng19@gmail.com,Muhammad Rafli Tanjung ,17 - 25 Tahun,Mahasiswa,Karawang,4.0,TAMAN HUTAN KOTA CIKAMPEK,CIKAMPEK,ALAM,P101
+281,yessitystn99@gmail.com,Yessi,17 - 25 Tahun,Mahasiswa,Kota Bandung,4.0,BUKIT SANGGABUANA,TEGALWARU,ALAM,P9
+282,yessitystn99@gmail.com,Yessi,17 - 25 Tahun,Mahasiswa,Kota Bandung,4.0,CADAS PUTRI TAMELANG,PURWASARI,ALAM,P10
+283,yessitystn99@gmail.com,Yessi,17 - 25 Tahun,Mahasiswa,Kota Bandung,4.0,DANAU KALIMATI,KLARI,TIRTA,P23
+284,yessitystn99@gmail.com,Yessi,17 - 25 Tahun,Mahasiswa,Kota Bandung,4.0,KAMPUNG BUDAYA,TELUKJAMBE TIMUR,BUDAYA,P33
+285,yessitystn99@gmail.com,Yessi,17 - 25 Tahun,Mahasiswa,Kota Bandung,4.0,KAMPUNG SALAPAN,BANYUSARI,BUDAYA,P36
+286,yessitystn99@gmail.com,Yessi,17 - 25 Tahun,Mahasiswa,Kota Bandung,4.0,PANTAI PELANGI,PEDES,ALAM,P70
+287,yessitystn99@gmail.com,Yessi,17 - 25 Tahun,Mahasiswa,Kota Bandung,4.0,PANTAI PISANGAN,CIBUAYA,ALAM,P71
+288,auliarizka2702@gmail.com,rizka ay,17 - 25 Tahun,Mahasiswa,Kabupaten Bekasi,4.0,AIR TERJUN GRAND CANYON,PANGKALAN,ALAM,P1
+289,auliarizka2702@gmail.com,rizka ay,17 - 25 Tahun,Mahasiswa,Kabupaten Bekasi,4.0,BUKIT CALINGCING,TEGALWARU,ALAM,P7
+290,auliarizka2702@gmail.com,rizka ay,17 - 25 Tahun,Mahasiswa,Kabupaten Bekasi,4.0,BUKIT KEMBAR PUCUK PINUS,TEGALWARU,ALAM,P8
+291,auliarizka2702@gmail.com,rizka ay,17 - 25 Tahun,Mahasiswa,Kabupaten Bekasi,4.0,BUKIT SANGGABUANA,TEGALWARU,ALAM,P9
+292,auliarizka2702@gmail.com,rizka ay,17 - 25 Tahun,Mahasiswa,Kabupaten Bekasi,4.0,HUTAN MANGROVE,CILAMAYA WETAN,ALAM,P29
+293,auliarizka2702@gmail.com,rizka ay,17 - 25 Tahun,Mahasiswa,Kabupaten Bekasi,4.0,PANTAI MUTIARA,CILEBAR,ALAM,P68
+294,auliarizka2702@gmail.com,rizka ay,17 - 25 Tahun,Mahasiswa,Kabupaten Bekasi,4.0,PANTAI PASIR PUTIH,CILAMAYA KULON,ALAM,P69
+295,auliarizka2702@gmail.com,rizka ay,17 - 25 Tahun,Mahasiswa,Kabupaten Bekasi,4.0,PANTAI PELANGI,PEDES,ALAM,P70
+296,mutiaratiara1652@gmail.com,mutiara hasna aqilla,17 - 25 Tahun,Mahasiswa,Kota Bekasi,5.0,WISATA MANGROVE SEDARI,CIBUAYA,ALAM,P116
+297,abdurroid246@gmail.com,Abdul Roid,17 - 25 Tahun,Mahasiswa,Kabupaten Tangerang,4.0,AIR TERJUN GRAND CANYON,PANGKALAN,ALAM,P1
+298,abdurroid246@gmail.com,Abdul Roid,17 - 25 Tahun,Mahasiswa,Kabupaten Tangerang,4.0,BENDUNGAN WALHAR,CIAMPEL,SEJARAH,P5
+299,abdurroid246@gmail.com,Abdul Roid,17 - 25 Tahun,Mahasiswa,Kabupaten Tangerang,4.0,BUKIT KEMBAR PUCUK PINUS,TEGALWARU,ALAM,P8
+300,abdurroid246@gmail.com,Abdul Roid,17 - 25 Tahun,Mahasiswa,Kabupaten Tangerang,4.0,CURUG CIKARAPYAK,TEGALWARU,ALAM,P16
+301,abdurroid246@gmail.com,Abdul Roid,17 - 25 Tahun,Mahasiswa,Kabupaten Tangerang,4.0,CURUG CIKOLEANGKAK,TEGALWARU,ALAM,P17
+302,abdurroid246@gmail.com,Abdul Roid,17 - 25 Tahun,Mahasiswa,Kabupaten Tangerang,4.0,CURUG CIPANUNDAAN,TEGALWARU,ALAM,P18
+303,abdurroid246@gmail.com,Abdul Roid,17 - 25 Tahun,Mahasiswa,Kabupaten Tangerang,4.0,HUTAN MANGROVE CIKEONG,CIBUAYA,ALAM,P30
+304,abdurroid246@gmail.com,Abdul Roid,17 - 25 Tahun,Mahasiswa,Kabupaten Tangerang,4.0,KAMPUNG CALINCING,TEGALWARU,BUDAYA,P34
+305,abdurroid246@gmail.com,Abdul Roid,17 - 25 Tahun,Mahasiswa,Kabupaten Tangerang,4.0,MAKAM KI BAGUS RANGIN,KUTAWALUYA,BUDAYA,P48
+306,abdurroid246@gmail.com,Abdul Roid,17 - 25 Tahun,Mahasiswa,Kabupaten Tangerang,4.0,MASJID AGUNG KARAWANG,KARAWANG BARAT,KEAGAMAAN,P53
+307,abdurroid246@gmail.com,Abdul Roid,17 - 25 Tahun,Mahasiswa,Kabupaten Tangerang,4.0,MUARA SUNGAI MANUK,CIBUAYA,ALAM,P59
+308,abdurroid246@gmail.com,Abdul Roid,17 - 25 Tahun,Mahasiswa,Kabupaten Tangerang,4.0,MUARA TIRTA,CIBUAYA,ALAM,P60
+309,abdurroid246@gmail.com,Abdul Roid,17 - 25 Tahun,Mahasiswa,Kabupaten Tangerang,4.0,MUSEUM SITUS BATUJAYA,BATUJAYA,BUDAYA,P62
+310,abdurroid246@gmail.com,Abdul Roid,17 - 25 Tahun,Mahasiswa,Kabupaten Tangerang,4.0,PANTAI ALAM BARU,CIBUAYA,ALAM,P65
+311,abdurroid246@gmail.com,Abdul Roid,17 - 25 Tahun,Mahasiswa,Kabupaten Tangerang,4.0,PANTAI PELANGI,PEDES,ALAM,P70
+312,abdurroid246@gmail.com,Abdul Roid,17 - 25 Tahun,Mahasiswa,Kabupaten Tangerang,4.0,PANTAI PISANGAN,CIBUAYA,ALAM,P71
+313,abdurroid246@gmail.com,Abdul Roid,17 - 25 Tahun,Mahasiswa,Kabupaten Tangerang,4.0,PANTAI TANJUNG BARU,CILAMAYA KULON,ALAM,P74
+314,abdurroid246@gmail.com,Abdul Roid,17 - 25 Tahun,Mahasiswa,Kabupaten Tangerang,4.0,PANTAI TANJUNG PAKIS,PAKISJAYA,ALAM,P75
+315,abdurroid246@gmail.com,Abdul Roid,17 - 25 Tahun,Mahasiswa,Kabupaten Tangerang,4.0,SAN DIEGO HILL,TELUKJAMBE BARAT,BUDAYA,P83
+316,abdurroid246@gmail.com,Abdul Roid,17 - 25 Tahun,Mahasiswa,Kabupaten Tangerang,4.0,STONE GARDEN,TEGALWARU,ALAM,P94
+317,abdurroid246@gmail.com,Abdul Roid,17 - 25 Tahun,Mahasiswa,Kabupaten Tangerang,4.0,TAMAN HUTAN KOTA CIKAMPEK,CIKAMPEK,ALAM,P101
+318,sintya.tia2704@gmail.com,Sintya,17 - 25 Tahun,Mahasiswa,Tarakan,4.0,AIR TERJUN GRAND CANYON,PANGKALAN,ALAM,P1
+319,sintya.tia2704@gmail.com,Sintya,17 - 25 Tahun,Mahasiswa,Tarakan,4.0,CURUG LALAY,PANGKALAN,ALAM,P19
+320,notdwidutam@gmail.com,Dwi Duta Mahardewantoro,17 - 25 Tahun,Mahasiswa,Tangerang Selatan,4.0,AIR TERJUN GRAND CANYON,PANGKALAN,ALAM,P1
+321,notdwidutam@gmail.com,Dwi Duta Mahardewantoro,17 - 25 Tahun,Mahasiswa,Tangerang Selatan,4.0,JEMBATAN CINTA,TEGALWARU,ALAM,P32
+322,notdwidutam@gmail.com,Dwi Duta Mahardewantoro,17 - 25 Tahun,Mahasiswa,Tangerang Selatan,4.0,KAMPUNG BUDAYA,TELUKJAMBE TIMUR,BUDAYA,P33
+323,notdwidutam@gmail.com,Dwi Duta Mahardewantoro,17 - 25 Tahun,Mahasiswa,Tangerang Selatan,4.0,MASJID AGUNG KARAWANG,KARAWANG BARAT,KEAGAMAAN,P53
+324,notdwidutam@gmail.com,Dwi Duta Mahardewantoro,17 - 25 Tahun,Mahasiswa,Tangerang Selatan,4.0,MONUMEN KEBULATAN TEKAD,RENGASDENGKLOK,SEJARAH,P55
+325,notdwidutam@gmail.com,Dwi Duta Mahardewantoro,17 - 25 Tahun,Mahasiswa,Tangerang Selatan,4.0,MUARA TIRTA,CIBUAYA,ALAM,P60
+326,notdwidutam@gmail.com,Dwi Duta Mahardewantoro,17 - 25 Tahun,Mahasiswa,Tangerang Selatan,4.0,MUSEUM SITUS BATUJAYA,BATUJAYA,BUDAYA,P62
+327,notdwidutam@gmail.com,Dwi Duta Mahardewantoro,17 - 25 Tahun,Mahasiswa,Tangerang Selatan,4.0,PANTAI PASIR PUTIH,CILAMAYA KULON,ALAM,P69
+328,notdwidutam@gmail.com,Dwi Duta Mahardewantoro,17 - 25 Tahun,Mahasiswa,Tangerang Selatan,4.0,PANTAI TANJUNG BARU,CILAMAYA KULON,ALAM,P74
+329,notdwidutam@gmail.com,Dwi Duta Mahardewantoro,17 - 25 Tahun,Mahasiswa,Tangerang Selatan,4.0,SAN DIEGO HILL,TELUKJAMBE BARAT,BUDAYA,P83
+330,notdwidutam@gmail.com,Dwi Duta Mahardewantoro,17 - 25 Tahun,Mahasiswa,Tangerang Selatan,4.0,STONE GARDEN,TEGALWARU,ALAM,P94
+331,notdwidutam@gmail.com,Dwi Duta Mahardewantoro,17 - 25 Tahun,Mahasiswa,Tangerang Selatan,4.0,TAMAN HUTAN KOTA CIKAMPEK,CIKAMPEK,ALAM,P101
+332,notdwidutam@gmail.com,Dwi Duta Mahardewantoro,17 - 25 Tahun,Mahasiswa,Tangerang Selatan,4.0,WATERBOOM KAMPUNG TURIS,TEGALWARU,TIRTA,P112
+333,notdwidutam@gmail.com,Dwi Duta Mahardewantoro,17 - 25 Tahun,Mahasiswa,Tangerang Selatan,4.0,WISATA MANGROVE SEDARI,CIBUAYA,ALAM,P116
+334,nseptiani13@gmail.com,Nurul Septyaningsih ,17 - 25 Tahun,Mahasiswa,Tangerang Selatan,4.0,AIR TERJUN GRAND CANYON,PANGKALAN,ALAM,P1
+335,nseptiani13@gmail.com,Nurul Septyaningsih ,17 - 25 Tahun,Mahasiswa,Tangerang Selatan,4.0,BATU TUMPANG/CURUG BANDUNG,TEGALWARU,ALAM,P4
+336,nseptiani13@gmail.com,Nurul Septyaningsih ,17 - 25 Tahun,Mahasiswa,Tangerang Selatan,4.0,BUKIT SANGGABUANA,TEGALWARU,ALAM,P9
+337,nseptiani13@gmail.com,Nurul Septyaningsih ,17 - 25 Tahun,Mahasiswa,Tangerang Selatan,4.0,CURUG CIKARAPYAK,TEGALWARU,ALAM,P16
+338,nseptiani13@gmail.com,Nurul Septyaningsih ,17 - 25 Tahun,Mahasiswa,Tangerang Selatan,4.0,CURUG CIKOLEANGKAK,TEGALWARU,ALAM,P17
+339,nseptiani13@gmail.com,Nurul Septyaningsih ,17 - 25 Tahun,Mahasiswa,Tangerang Selatan,4.0,HUTAN MANGROVE,CILAMAYA WETAN,ALAM,P29
+340,nseptiani13@gmail.com,Nurul Septyaningsih ,17 - 25 Tahun,Mahasiswa,Tangerang Selatan,4.0,HUTAN MANGROVE CIKEONG,CIBUAYA,ALAM,P30
+341,nseptiani13@gmail.com,Nurul Septyaningsih ,17 - 25 Tahun,Mahasiswa,Tangerang Selatan,4.0,SUNGAI ALAM BENTANG,CIBUAYA,ALAM,P96
+342,adriacampb@gmail.com,Adria Harist Belia,17 - 25 Tahun,Mahasiswa,Tangerang Selatan,3.0,PANTAI PELANGI,PEDES,ALAM,P70
+343,adriacampb@gmail.com,Adria Harist Belia,17 - 25 Tahun,Mahasiswa,Tangerang Selatan,3.0,PANTAI SAMUDRA BARU,PEDES,ALAM,P72
+344,kekeyykayla@gmail.com,Kayla Pertama Alesha,6 - 11 Tahun,Pelajar,Kota Bekasi,5.0,CANDI LANANG,CIBUAYA,BUDAYA,P11
+345,kekeyykayla@gmail.com,Kayla Pertama Alesha,6 - 11 Tahun,Pelajar,Kota Bekasi,5.0,CANDI WADON,CIBUAYA,BUDAYA,P12
+346,kekeyykayla@gmail.com,Kayla Pertama Alesha,6 - 11 Tahun,Pelajar,Kota Bekasi,5.0,WATERBOOM CIBONTENG,TEGALWARU,TIRTA,P109
+347,kekeyykayla@gmail.com,Kayla Pertama Alesha,6 - 11 Tahun,Pelajar,Kota Bekasi,5.0,WATERBOOM EMPANG SARI,TEGALWARU,TIRTA,P111
+348,kekeyykayla@gmail.com,Kayla Pertama Alesha,6 - 11 Tahun,Pelajar,Kota Bekasi,5.0,WATERBOOM KAMPUNG TURIS,TEGALWARU,TIRTA,P112
+349,brevfiden2@gmail.com,Brev William Fiden Saragih ,17 - 25 Tahun,Mahasiswa,Jakarta Selatan,4.0,CURUG CIGEUNTIS,TEGALWARU,ALAM,P15
+350,brevfiden2@gmail.com,Brev William Fiden Saragih ,17 - 25 Tahun,Mahasiswa,Jakarta Selatan,4.0,CURUG CIKARAPYAK,TEGALWARU,ALAM,P16
+351,brevfiden2@gmail.com,Brev William Fiden Saragih ,17 - 25 Tahun,Mahasiswa,Jakarta Selatan,4.0,CURUG CIKOLEANGKAK,TEGALWARU,ALAM,P17
+352,brevfiden2@gmail.com,Brev William Fiden Saragih ,17 - 25 Tahun,Mahasiswa,Jakarta Selatan,4.0,CURUG CIPANUNDAAN,TEGALWARU,ALAM,P18
+353,brevfiden2@gmail.com,Brev William Fiden Saragih ,17 - 25 Tahun,Mahasiswa,Jakarta Selatan,4.0,CURUG LALAY,PANGKALAN,ALAM,P19
+354,brevfiden2@gmail.com,Brev William Fiden Saragih ,17 - 25 Tahun,Mahasiswa,Jakarta Selatan,4.0,CURUG PANGANTEN,TEGALWARU,ALAM,P20
+355,brevfiden2@gmail.com,Brev William Fiden Saragih ,17 - 25 Tahun,Mahasiswa,Jakarta Selatan,4.0,PANTAI MUTIARA,CILEBAR,ALAM,P68
+356,brevfiden2@gmail.com,Brev William Fiden Saragih ,17 - 25 Tahun,Mahasiswa,Jakarta Selatan,4.0,PANTAI PASIR PUTIH,CILAMAYA KULON,ALAM,P69
+357,brevfiden2@gmail.com,Brev William Fiden Saragih ,17 - 25 Tahun,Mahasiswa,Jakarta Selatan,4.0,PANTAI PELANGI,PEDES,ALAM,P70
+358,brevfiden2@gmail.com,Brev William Fiden Saragih ,17 - 25 Tahun,Mahasiswa,Jakarta Selatan,4.0,WATERBOOM CIBONTENG,TEGALWARU,TIRTA,P109
+359,brevfiden2@gmail.com,Brev William Fiden Saragih ,17 - 25 Tahun,Mahasiswa,Jakarta Selatan,4.0,WATERBOOM EMPANG SARI,TEGALWARU,TIRTA,P111
+360,brevfiden2@gmail.com,Brev William Fiden Saragih ,17 - 25 Tahun,Mahasiswa,Jakarta Selatan,4.0,WATERBOOM KAMPUNG TURIS,TEGALWARU,TIRTA,P112
+361,azkifajri16@gmail.com,Azki Nurul Fajri,17 - 25 Tahun,Mahasiswa,Kabupaten Bogor,4.0,MAKAM KI BAGUS RANGIN,KUTAWALUYA,BUDAYA,P48
+362,azkifajri16@gmail.com,Azki Nurul Fajri,17 - 25 Tahun,Mahasiswa,Kabupaten Bogor,4.0,MAKAM PANJANG,LEMAH ABANG,BUDAYA,P49
+363,azkifajri16@gmail.com,Azki Nurul Fajri,17 - 25 Tahun,Mahasiswa,Kabupaten Bogor,4.0,MAKAM PASAREAN,KLARI,BUDAYA,P50
+364,azkifajri16@gmail.com,Azki Nurul Fajri,17 - 25 Tahun,Mahasiswa,Kabupaten Bogor,4.0,MAQOM SYECH BENTONG,LEMAH ABANG,BUDAYA,P51
+365,azkifajri16@gmail.com,Azki Nurul Fajri,17 - 25 Tahun,Mahasiswa,Kabupaten Bogor,4.0,MAQOM SYECH QURO,LEMAH ABANG,BUDAYA,P52
+366,azkifajri16@gmail.com,Azki Nurul Fajri,17 - 25 Tahun,Mahasiswa,Kabupaten Bogor,4.0,MUSEUM SITUS BATUJAYA,BATUJAYA,BUDAYA,P62
+367,azkifajri16@gmail.com,Azki Nurul Fajri,17 - 25 Tahun,Mahasiswa,Kabupaten Bogor,4.0,PANTAI ALAM BARU,CIBUAYA,ALAM,P65
+368,azkifajri16@gmail.com,Azki Nurul Fajri,17 - 25 Tahun,Mahasiswa,Kabupaten Bogor,4.0,PANTAI CIBENDO,TEMPURAN,ALAM,P66
+369,azkifajri16@gmail.com,Azki Nurul Fajri,17 - 25 Tahun,Mahasiswa,Kabupaten Bogor,4.0,PANTAI JALASENA,PEDES,ALAM,P67
+370,azkifajri16@gmail.com,Azki Nurul Fajri,17 - 25 Tahun,Mahasiswa,Kabupaten Bogor,4.0,PANTAI MUTIARA,CILEBAR,ALAM,P68
+371,azkifajri16@gmail.com,Azki Nurul Fajri,17 - 25 Tahun,Mahasiswa,Kabupaten Bogor,4.0,PANTAI PASIR PUTIH,CILAMAYA KULON,ALAM,P69
+372,azkifajri16@gmail.com,Azki Nurul Fajri,17 - 25 Tahun,Mahasiswa,Kabupaten Bogor,4.0,PANTAI PELANGI,PEDES,ALAM,P70
+373,azkifajri16@gmail.com,Azki Nurul Fajri,17 - 25 Tahun,Mahasiswa,Kabupaten Bogor,4.0,PANTAI PISANGAN,CIBUAYA,ALAM,P71
+374,azkifajri16@gmail.com,Azki Nurul Fajri,17 - 25 Tahun,Mahasiswa,Kabupaten Bogor,4.0,PANTAI SAMUDRA BARU,PEDES,ALAM,P72
+375,azkifajri16@gmail.com,Azki Nurul Fajri,17 - 25 Tahun,Mahasiswa,Kabupaten Bogor,4.0,PANTAI TANJUNG BARU,CILAMAYA KULON,ALAM,P74
+376,azkifajri16@gmail.com,Azki Nurul Fajri,17 - 25 Tahun,Mahasiswa,Kabupaten Bogor,4.0,PANTAI TANJUNG PAKIS,PAKISJAYA,ALAM,P75
+377,azkifajri16@gmail.com,Azki Nurul Fajri,17 - 25 Tahun,Mahasiswa,Kabupaten Bogor,4.0,WATERBOOM CIBONTENG,TEGALWARU,TIRTA,P109
+378,azkifajri16@gmail.com,Azki Nurul Fajri,17 - 25 Tahun,Mahasiswa,Kabupaten Bogor,4.0,WATERBOOM EMPANG SARI,TEGALWARU,TIRTA,P111
+379,azkifajri16@gmail.com,Azki Nurul Fajri,17 - 25 Tahun,Mahasiswa,Kabupaten Bogor,4.0,WATERBOOM KAMPUNG TURIS,TEGALWARU,TIRTA,P112
+380,rifaahdakanitaa@gmail.com,Rifa Ahda Kanita,17 - 25 Tahun,Bekerja,Kota Tangerang,3.0,AIR TERJUN GRAND CANYON,PANGKALAN,ALAM,P1
+381,rifaahdakanitaa@gmail.com,Rifa Ahda Kanita,17 - 25 Tahun,Bekerja,Kota Tangerang,3.0,BUKIT SANGGABUANA,TEGALWARU,ALAM,P9
+382,mkarifin71986@gmail.com,Muhammad kurniawan arifin,17 - 25 Tahun,Mahasiswa,Kota Bekasi,4.0,SITUS CANDI JIWA,BATUJAYA,BUDAYA,P90
+383,singgihramadhan12@gmail.com,Singgih Zein Massaid Ramadhan ,17 - 25 Tahun,Bekerja,Kota Bekasi,4.0,AIR TERJUN GRAND CANYON,PANGKALAN,ALAM,P1
+384,singgihramadhan12@gmail.com,Singgih Zein Massaid Ramadhan ,17 - 25 Tahun,Bekerja,Kota Bekasi,4.0,BATU TUMPANG/CURUG BANDUNG,TEGALWARU,ALAM,P4
+385,singgihramadhan12@gmail.com,Singgih Zein Massaid Ramadhan ,17 - 25 Tahun,Bekerja,Kota Bekasi,4.0,CURUG LALAY,PANGKALAN,ALAM,P19
+386,trinovaputra@gmail.com,Rahmanda Trinova Putra,17 - 25 Tahun,Mahasiswa,Kota Bekasi,4.0,PANTAI CIBENDO,TEMPURAN,ALAM,P66
+387,trinovaputra@gmail.com,Rahmanda Trinova Putra,17 - 25 Tahun,Mahasiswa,Kota Bekasi,4.0,PANTAI JALASENA,PEDES,ALAM,P67
+388,trinovaputra@gmail.com,Rahmanda Trinova Putra,17 - 25 Tahun,Mahasiswa,Kota Bekasi,4.0,PANTAI MUTIARA,CILEBAR,ALAM,P68
+389,trinovaputra@gmail.com,Rahmanda Trinova Putra,17 - 25 Tahun,Mahasiswa,Kota Bekasi,4.0,PANTAI PASIR PUTIH,CILAMAYA KULON,ALAM,P69
+390,trinovaputra@gmail.com,Rahmanda Trinova Putra,17 - 25 Tahun,Mahasiswa,Kota Bekasi,4.0,PANTAI PELANGI,PEDES,ALAM,P70
+391,trinovaputra@gmail.com,Rahmanda Trinova Putra,17 - 25 Tahun,Mahasiswa,Kota Bekasi,4.0,PANTAI PISANGAN,CIBUAYA,ALAM,P71
+392,trinovaputra@gmail.com,Rahmanda Trinova Putra,17 - 25 Tahun,Mahasiswa,Kota Bekasi,4.0,PANTAI SAMUDRA BARU,PEDES,ALAM,P72
+393,trinovaputra@gmail.com,Rahmanda Trinova Putra,17 - 25 Tahun,Mahasiswa,Kota Bekasi,4.0,PANTAI TANJUNG BARU,CILAMAYA KULON,ALAM,P74
+394,trinovaputra@gmail.com,Rahmanda Trinova Putra,17 - 25 Tahun,Mahasiswa,Kota Bekasi,4.0,PANTAI TANJUNG PAKIS,PAKISJAYA,ALAM,P75
+395,abirafdimirza17@gmail.com,Abi ,17 - 25 Tahun,Mahasiswa,Kota Bekasi,3.0,AIR TERJUN GRAND CANYON,PANGKALAN,ALAM,P1
+396,abirafdimirza17@gmail.com,Abi ,17 - 25 Tahun,Mahasiswa,Kota Bekasi,3.0,BUKIT CALINGCING,TEGALWARU,ALAM,P7
+397,abirafdimirza17@gmail.com,Abi ,17 - 25 Tahun,Mahasiswa,Kota Bekasi,3.0,BUKIT KEMBAR PUCUK PINUS,TEGALWARU,ALAM,P8
+398,abirafdimirza17@gmail.com,Abi ,17 - 25 Tahun,Mahasiswa,Kota Bekasi,3.0,KAMPUNG BUDAYA,TELUKJAMBE TIMUR,BUDAYA,P33
+399,abirafdimirza17@gmail.com,Abi ,17 - 25 Tahun,Mahasiswa,Kota Bekasi,3.0,SAN DIEGO HILL,TELUKJAMBE BARAT,BUDAYA,P83
+400,ryangemilangtaufik@gmail.com,Ryan Gemilang Taufik,17 - 25 Tahun,Mahasiswa,Karawang,5.0,AIR TERJUN GRAND CANYON,PANGKALAN,ALAM,P1
+401,ryangemilangtaufik@gmail.com,Ryan Gemilang Taufik,17 - 25 Tahun,Mahasiswa,Karawang,5.0,BENDUNGAN WALHAR,CIAMPEL,SEJARAH,P5
+402,ryangemilangtaufik@gmail.com,Ryan Gemilang Taufik,17 - 25 Tahun,Mahasiswa,Karawang,5.0,BUKIT CALINGCING,TEGALWARU,ALAM,P7
+403,ryangemilangtaufik@gmail.com,Ryan Gemilang Taufik,17 - 25 Tahun,Mahasiswa,Karawang,5.0,BUKIT KEMBAR PUCUK PINUS,TEGALWARU,ALAM,P8
+404,ryangemilangtaufik@gmail.com,Ryan Gemilang Taufik,17 - 25 Tahun,Mahasiswa,Karawang,5.0,BUKIT SANGGABUANA,TEGALWARU,ALAM,P9
+405,ryangemilangtaufik@gmail.com,Ryan Gemilang Taufik,17 - 25 Tahun,Mahasiswa,Karawang,5.0,PANTAI PELANGI,PEDES,ALAM,P70
+406,ryangemilangtaufik@gmail.com,Ryan Gemilang Taufik,17 - 25 Tahun,Mahasiswa,Karawang,5.0,PANTAI SAMUDRA BARU,PEDES,ALAM,P72
+407,ryangemilangtaufik@gmail.com,Ryan Gemilang Taufik,17 - 25 Tahun,Mahasiswa,Karawang,5.0,PANTAI TANJUNG BARU,CILAMAYA KULON,ALAM,P74
+408,ryangemilangtaufik@gmail.com,Ryan Gemilang Taufik,17 - 25 Tahun,Mahasiswa,Karawang,5.0,PANTAI TANJUNG PAKIS,PAKISJAYA,ALAM,P75
+409,ryangemilangtaufik@gmail.com,Ryan Gemilang Taufik,17 - 25 Tahun,Mahasiswa,Karawang,5.0,SITUS CANDI JIWA,BATUJAYA,BUDAYA,P90
+410,zharif588@gmail.com,Hafidz Zharif,17 - 25 Tahun,Mahasiswa,Kabupaten Bekasi,4.0,BENDUNGAN WALHAR,CIAMPEL,SEJARAH,P5
+411,zharif588@gmail.com,Hafidz Zharif,17 - 25 Tahun,Mahasiswa,Kabupaten Bekasi,4.0,DANAU KALIMATI,KLARI,TIRTA,P23
+412,zharif588@gmail.com,Hafidz Zharif,17 - 25 Tahun,Mahasiswa,Kabupaten Bekasi,4.0,MONUMEN KEBULATAN TEKAD,RENGASDENGKLOK,SEJARAH,P55
+413,zharif588@gmail.com,Hafidz Zharif,17 - 25 Tahun,Mahasiswa,Kabupaten Bekasi,4.0,MUARA PARIDI,CIBUAYA,ALAM,P58
+414,zharif588@gmail.com,Hafidz Zharif,17 - 25 Tahun,Mahasiswa,Kabupaten Bekasi,4.0,PANTAI TANJUNG BARU,CILAMAYA KULON,ALAM,P74
+415,mnaufalkautsar@gmail.com,Muhammad Naufal,17 - 25 Tahun,Mahasiswa,Kabupaten Bekasi,4.0,BUKIT KEMBAR PUCUK PINUS,TEGALWARU,ALAM,P8
+416,mnaufalkautsar@gmail.com,Muhammad Naufal,17 - 25 Tahun,Mahasiswa,Kabupaten Bekasi,4.0,CURUG CIKARAPYAK,TEGALWARU,ALAM,P16
+417,mnaufalkautsar@gmail.com,Muhammad Naufal,17 - 25 Tahun,Mahasiswa,Kabupaten Bekasi,4.0,PANTAI PASIR PUTIH,CILAMAYA KULON,ALAM,P69
+418,basitalhafiz123@gmail.com,basit,17 - 25 Tahun,Mahasiswa,Kabupaten Bekasi,3.0,SITUS TELAGAJAYA,PAKISJAYA,BUDAYA,P93
+419,basitalhafiz123@gmail.com,basit,17 - 25 Tahun,Mahasiswa,Kabupaten Bekasi,3.0,STONE GARDEN,TEGALWARU,ALAM,P94
+420,basitalhafiz123@gmail.com,basit,17 - 25 Tahun,Mahasiswa,Kabupaten Bekasi,3.0,SUMUR AWISAN,TELAGASARI,BUDAYA,P95
+421,basitalhafiz123@gmail.com,basit,17 - 25 Tahun,Mahasiswa,Kabupaten Bekasi,3.0,SUNGAI ALAM BENTANG,CIBUAYA,ALAM,P96
+422,basitalhafiz123@gmail.com,basit,17 - 25 Tahun,Mahasiswa,Kabupaten Bekasi,3.0,TAMAN BATU SINAPEUL,TEGALWARU,ALAM,P98
+423,basitalhafiz123@gmail.com,basit,17 - 25 Tahun,Mahasiswa,Kabupaten Bekasi,3.0,TAMAN HUTAN KOTA CIKAMPEK,CIKAMPEK,ALAM,P101
+424,basitalhafiz123@gmail.com,basit,17 - 25 Tahun,Mahasiswa,Kabupaten Bekasi,3.0,VIHARA SIAN DJIN KUPOH,KARAWANG BARAT,KEAGAMAAN,P107
+425,basitalhafiz123@gmail.com,basit,17 - 25 Tahun,Mahasiswa,Kabupaten Bekasi,3.0,WATERBOOM CIBONTENG,TEGALWARU,TIRTA,P109
+426,basitalhafiz123@gmail.com,basit,17 - 25 Tahun,Mahasiswa,Kabupaten Bekasi,3.0,WATERBOOM EMPANG SARI,TEGALWARU,TIRTA,P111
+427,basitalhafiz123@gmail.com,basit,17 - 25 Tahun,Mahasiswa,Kabupaten Bekasi,3.0,WATERBOOM KAMPUNG TURIS,TEGALWARU,TIRTA,P112
+428,yasintacitra9@gmail.com,Yasinta Citra Arumsari,17 - 25 Tahun,Bekerja,Kabupaten Bekasi,4.0,SAN DIEGO HILL,TELUKJAMBE BARAT,BUDAYA,P83
+429,ronimerdiansyah@gmail.com,Roni,17 - 25 Tahun,Mahasiswa,Kabupaten Bekasi,4.0,JEMBATAN CINTA,TEGALWARU,ALAM,P32
+430,ronimerdiansyah@gmail.com,Roni,17 - 25 Tahun,Mahasiswa,Kabupaten Bekasi,4.0,KUALA TELAR SARI/BURUNG,CIBUAYA,ALAM,P46
+431,ronimerdiansyah@gmail.com,Roni,17 - 25 Tahun,Mahasiswa,Kabupaten Bekasi,4.0,MAKAM PASAREAN,KLARI,BUDAYA,P50
+432,ronimerdiansyah@gmail.com,Roni,17 - 25 Tahun,Mahasiswa,Kabupaten Bekasi,4.0,MUARA PARIDI,CIBUAYA,ALAM,P58
+433,ronimerdiansyah@gmail.com,Roni,17 - 25 Tahun,Mahasiswa,Kabupaten Bekasi,4.0,PANTAI MUTIARA,CILEBAR,ALAM,P68
+434,ronimerdiansyah@gmail.com,Roni,17 - 25 Tahun,Mahasiswa,Kabupaten Bekasi,4.0,PANTAI TANJUNG BARU,CILAMAYA KULON,ALAM,P74
+435,ronimerdiansyah@gmail.com,Roni,17 - 25 Tahun,Mahasiswa,Kabupaten Bekasi,4.0,SUMUR AWISAN,TELAGASARI,BUDAYA,P95
+436,ronimerdiansyah@gmail.com,Roni,17 - 25 Tahun,Mahasiswa,Kabupaten Bekasi,4.0,WONDERLAND ADVENTURE WATERPARK,TELUKJAMBE TIMUR,TIRTA,P117
+437,ronimerdiansyah@gmail.com,Roni,17 - 25 Tahun,Mahasiswa,Kabupaten Bekasi,4.0,TAMAN GALUH MAS,TELUKJAMBE TIMUR,TIRTA,P99
+438,ronimerdiansyah@gmail.com,Roni,17 - 25 Tahun,Mahasiswa,Kabupaten Bekasi,4.0,WAHANA ALAM PERSADA,MAJALAYA,ALAM,P108
+439,ronimerdiansyah@gmail.com,Roni,17 - 25 Tahun,Mahasiswa,Kabupaten Bekasi,4.0,KAMPUNG TURIS KARAWANG,TEGALWARU,BUDAYA,P38
+440,ronimerdiansyah@gmail.com,Roni,17 - 25 Tahun,Mahasiswa,Kabupaten Bekasi,4.0,WISATA MANGROVE KARAWANG,CILEBAR,ALAM,P115
+441,ronimerdiansyah@gmail.com,Roni,17 - 25 Tahun,Mahasiswa,Kabupaten Bekasi,4.0,KOLAM RENANG KALEN RAMAN,BANYUSARI,TIRTA,P43
+442,ronimerdiansyah@gmail.com,Roni,17 - 25 Tahun,Mahasiswa,Kabupaten Bekasi,4.0,SAMPOERNA GARDEN,RENGASDENGKLOK,TIRTA,P82
+443,ronimerdiansyah@gmail.com,Roni,17 - 25 Tahun,Mahasiswa,Kabupaten Bekasi,4.0,TELAGA DESA,TELUKJAMBE TIMUR,BUDAYA,P106
+444,ronimerdiansyah@gmail.com,Roni,17 - 25 Tahun,Mahasiswa,Kabupaten Bekasi,4.0,CIPAGA STONE PARK,TEGALWARU,TIRTA,P14
+445,ronimerdiansyah@gmail.com,Roni,17 - 25 Tahun,Mahasiswa,Kabupaten Bekasi,4.0,NEW MARIGOLD GARDEN,PURWASARI,TIRTA,P63
+446,franklegiondbd@gmail.com,Frans,26 - 35 Tahun,Bekerja,Kota Bekasi,5.0,BUKIT KEMBAR PUCUK PINUS,TEGALWARU,ALAM,P8
+447,franklegiondbd@gmail.com,Frans,26 - 35 Tahun,Bekerja,Kota Bekasi,5.0,BUKIT SANGGABUANA,TEGALWARU,ALAM,P9
+448,franklegiondbd@gmail.com,Frans,26 - 35 Tahun,Bekerja,Kota Bekasi,5.0,JATIDIPALA,TEMPURAN,ALAM,P31
+449,franklegiondbd@gmail.com,Frans,26 - 35 Tahun,Bekerja,Kota Bekasi,5.0,KAMPUNG CALINCING,TEGALWARU,BUDAYA,P34
+450,franklegiondbd@gmail.com,Frans,26 - 35 Tahun,Bekerja,Kota Bekasi,5.0,MUARA LEMPENG,CIBUAYA,ALAM,P57
+451,franklegiondbd@gmail.com,Frans,26 - 35 Tahun,Bekerja,Kota Bekasi,5.0,MUARA SUNGAI MANUK,CIBUAYA,ALAM,P59
+452,franklegiondbd@gmail.com,Frans,26 - 35 Tahun,Bekerja,Kota Bekasi,5.0,PANCANGAN,PURWASARI,ALAM,P64
+453,franklegiondbd@gmail.com,Frans,26 - 35 Tahun,Bekerja,Kota Bekasi,5.0,SITU CIPULE,CIAMPEL,TIRTA,P87
+454,franklegiondbd@gmail.com,Frans,26 - 35 Tahun,Bekerja,Kota Bekasi,5.0,SITUS CANDI JIWA,BATUJAYA,BUDAYA,P90
+455,franklegiondbd@gmail.com,Frans,26 - 35 Tahun,Bekerja,Kota Bekasi,5.0,VIHARA SIAN DJIN KUPOH,KARAWANG BARAT,KEAGAMAAN,P107
+456,franklegiondbd@gmail.com,Frans,26 - 35 Tahun,Bekerja,Kota Bekasi,5.0,WATERBOOM KAMPUNG TURIS,TEGALWARU,TIRTA,P112
+457,franklegiondbd@gmail.com,Frans,26 - 35 Tahun,Bekerja,Kota Bekasi,5.0,HUTAN KERTAS,CIAMPEL,ALAM,P28
+458,franklegiondbd@gmail.com,Frans,26 - 35 Tahun,Bekerja,Kota Bekasi,5.0,ALUN-ALUN KOTA KARAWANG,KARAWANG BARAT,TIRTA,P2
+459,franklegiondbd@gmail.com,Frans,26 - 35 Tahun,Bekerja,Kota Bekasi,5.0,WATERBOOM ELMUJIRA,RENGASDENGKLOK,TIRTA,P110
+460,franklegiondbd@gmail.com,Frans,26 - 35 Tahun,Bekerja,Kota Bekasi,5.0,TAMAN KOTA,KARAWANG BARAT,TIRTA,P102
+461,franklegiondbd@gmail.com,Frans,26 - 35 Tahun,Bekerja,Kota Bekasi,5.0,WISATA MANGROVE KARAWANG,CILEBAR,ALAM,P115
+462,franklegiondbd@gmail.com,Frans,26 - 35 Tahun,Bekerja,Kota Bekasi,5.0,KARNIVAL FUN & FIT TRAMPOLINE PARK KARAWANG,TELUKJAMBE TIMUR,TIRTA,P40
+463,franklegiondbd@gmail.com,Frans,26 - 35 Tahun,Bekerja,Kota Bekasi,5.0,SAMPOERNA GARDEN,RENGASDENGKLOK,TIRTA,P82
+464,franklegiondbd@gmail.com,Frans,26 - 35 Tahun,Bekerja,Kota Bekasi,5.0,MASJID JAMI ALIYAH,TELUKJAMBE TIMUR,KEAGAMAAN,P54
+465,dapperjack410@gmail.com,Dendi,17 - 25 Tahun,Mahasiswa,Karawang,4.0,BUKIT KEMBAR PUCUK PINUS,TEGALWARU,ALAM,P8
+466,dapperjack410@gmail.com,Dendi,17 - 25 Tahun,Mahasiswa,Karawang,4.0,CANDI WADON,CIBUAYA,BUDAYA,P12
+467,dapperjack410@gmail.com,Dendi,17 - 25 Tahun,Mahasiswa,Karawang,4.0,KAMPUNG CALINCING,TEGALWARU,BUDAYA,P34
+468,dapperjack410@gmail.com,Dendi,17 - 25 Tahun,Mahasiswa,Karawang,4.0,MAKAM KI BAGUS RANGIN,KUTAWALUYA,BUDAYA,P48
+469,dapperjack410@gmail.com,Dendi,17 - 25 Tahun,Mahasiswa,Karawang,4.0,PANCANGAN,PURWASARI,ALAM,P64
+470,dapperjack410@gmail.com,Dendi,17 - 25 Tahun,Mahasiswa,Karawang,4.0,PANTAI SAMUDRA BARU,PEDES,ALAM,P72
+471,dapperjack410@gmail.com,Dendi,17 - 25 Tahun,Mahasiswa,Karawang,4.0,PUNCAK SEMPUR,TEGALWARU,ALAM,P79
+472,dapperjack410@gmail.com,Dendi,17 - 25 Tahun,Mahasiswa,Karawang,4.0,RUMAH DJAUW KIE SONG,RENGASDENGKLOK,SEJARAH,P81
+473,dapperjack410@gmail.com,Dendi,17 - 25 Tahun,Mahasiswa,Karawang,4.0,SITUS KUTA TANDINGAN,CIAMPEL,BUDAYA,P92
+474,dapperjack410@gmail.com,Dendi,17 - 25 Tahun,Mahasiswa,Karawang,4.0,TAMAN BATU SINAPEUL,TEGALWARU,ALAM,P98
+475,dapperjack410@gmail.com,Dendi,17 - 25 Tahun,Mahasiswa,Karawang,4.0,WISATA MANGROVE SEDARI,CIBUAYA,ALAM,P116
+476,dapperjack410@gmail.com,Dendi,17 - 25 Tahun,Mahasiswa,Karawang,4.0,TARUMA LEISURE WATERPARK,TELUKJAMBE TIMUR,TIRTA,P105
+477,dapperjack410@gmail.com,Dendi,17 - 25 Tahun,Mahasiswa,Karawang,4.0,PESONA JABON JAYA,KARAWANG TIMUR,ALAM,P76
+478,dapperjack410@gmail.com,Dendi,17 - 25 Tahun,Mahasiswa,Karawang,4.0,KAMPUNG KULINER KARANG SAMBUNG,LEMAH ABANG,BUDAYA,P35
+479,dapperjack410@gmail.com,Dendi,17 - 25 Tahun,Mahasiswa,Karawang,4.0,LAPANG KARANGPAWITAN,KARAWANG BARAT,TIRTA,P47
+480,dapperjack410@gmail.com,Dendi,17 - 25 Tahun,Mahasiswa,Karawang,4.0,WATERBOOM RAWAMEJA,TEMPURAN,TIRTA,P113
+481,dapperjack410@gmail.com,Dendi,17 - 25 Tahun,Mahasiswa,Karawang,4.0,KOLAM RENANG KALEN RAMAN,BANYUSARI,TIRTA,P43
+482,dapperjack410@gmail.com,Dendi,17 - 25 Tahun,Mahasiswa,Karawang,4.0,KOLAM RENANG ALAM LEWEUNG SEREH,MAJALAYA,TIRTA,P42
+>>>>>>> 778867cbffc22e67908a2ff040d534aa799e2da6
