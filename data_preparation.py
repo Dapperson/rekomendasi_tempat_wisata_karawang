@@ -1,7 +1,7 @@
 import pandas as pd
 
-data_user_combined = pd.read_csv('./data/data_user_combined_v2.csv')
-combined_place_data = pd.read_csv('./data/combined_place_data_v2.csv')
+data_user_combined = pd.read_excel('data_user_combined_v2.xlsx')
+combined_place_data = pd.read_excel('combined_place_data_v2.xlsx')
 
 new_data_user = data_user_combined.copy()
 new_data_place = combined_place_data.copy()
