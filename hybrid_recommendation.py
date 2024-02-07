@@ -34,11 +34,11 @@ def tempat_recommendations(nama_tempat, similarity_data=cosine_sim_df,
             with col1:
                 st.write(row.Index)
             with col2:
-                place_path = f"../pictures/{row.id_tempat}.jpg"
+                place_path = f"./pictures/{row.id_tempat}.jpg"
                 if os.path.exists(place_path):
                     image = Image.open(place_path)
                 else:
-                    image = Image.open("../pictures/default.png")
+                    image = Image.open("./pictures/default.png")
                 image = ImageOps.fit(image, (250, 250))
                 st.image(image, width=250)
             with col3:
@@ -64,11 +64,11 @@ def show_recommendations_by_user_id(user_id):
             with col1:
                 st.write(row.Index)
             with col2:
-                place_path = f"../pictures/{row.id_tempat}.jpg"
+                place_path = f"./pictures/{row.id_tempat}.jpg"
                 if os.path.exists(place_path):
                     image = Image.open(place_path)
                 else:
-                    image = Image.open("../pictures/default.png")
+                    image = Image.open("./pictures/default.png")
                 image = ImageOps.fit(image, (250, 250))
                 st.image(image, width=250)
             with col3:
@@ -124,11 +124,11 @@ def show_recommendations_by_user_id(user_id):
                 with col1:
                     st.write(row.Index)
                 with col2:
-                    place_path = f"../pictures/{row.id_tempat}.jpg"
+                    place_path = f"./pictures/{row.id_tempat}.jpg"
                     if os.path.exists(place_path):
                         image = Image.open(place_path)
                     else:
-                        image = Image.open("../pictures/default.png")
+                        image = Image.open("./pictures/default.png")
                     image = ImageOps.fit(image, (250, 250))
                     st.image(image, width=250)
                 with col3:
@@ -156,11 +156,11 @@ def show_recommendations_by_user_id(user_id):
                 with col1:
                     st.write(row.Index)
                 with col2:
-                    place_path = f"../pictures/{row.id_tempat}.jpg"
+                    place_path = f"./pictures/{row.id_tempat}.jpg"
                     if os.path.exists(place_path):
                         image = Image.open(place_path)
                     else:
-                        image = Image.open("../pictures/default.png")
+                        image = Image.open("./pictures/default.png")
                     image = ImageOps.fit(image, (250, 250))
                     st.image(image, width=250)
                 with col3:
@@ -219,11 +219,11 @@ def explore_places(place_df):
                 with col1:
                     st.write(row.Index)
                 with col2:
-                    place_path = f"../pictures/{row.id_tempat}.jpg"
+                    place_path = f"./pictures/{row.id_tempat}.jpg"
                     if os.path.exists(place_path):
                         image = Image.open(place_path)
                     else:
-                        image = Image.open("../pictures/default.png")
+                        image = Image.open("./pictures/default.png")
                     image = ImageOps.fit(image, (250, 250))
                     st.image(image, width=250)
                 with col3:

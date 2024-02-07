@@ -44,7 +44,7 @@ elif choice == 'Beranda':
     
     # Menampilkan gambar di kolom pertama
     with col1:
-        logo_path = "../pictures/logo_karawang.png"
+        logo_path = "./pictures/logo_karawang.png"
         image = Image.open(logo_path)
         st.image(image, width=200)  # Mengatur lebar gambar menjadi 200 piksel
 
@@ -95,7 +95,7 @@ elif choice == 'Tentang':
     st.write('')
     col1, col2 = st.columns([2, 3])
     with col1:
-        logo_path = "../pictures/programmer.png"
+        logo_path = "./pictures/programmer.png"
         image = Image.open(logo_path)
         st.image(image, width=300)
     with col2:
