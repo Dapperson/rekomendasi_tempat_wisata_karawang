@@ -80,7 +80,7 @@ elif choice == 'Berdasarkan Tempat':
 
 elif choice == 'Berdasarkan Pengguna':
     st.header('Berdasarkan Pengguna 🧑🏻‍🌾')
-    user_id = st.text_input('Masukkan email pengguna', 'abirafdimirza17@gmail.com')
+    user_id = st.text_input('Masukkan email pengguna', 'example@gmail.com')
     if st.button('Tampilkan Rekomendasi'):
         show_recommendations_by_user_id(user_id)
 
